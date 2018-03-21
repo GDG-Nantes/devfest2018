@@ -113,23 +113,8 @@
           "newTab": true
         },
         {
-          "text": "df-12",
-          "url": "http://devfest2012.gdgnantes.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "https://devfest2013.gdgnantes.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "https://devfest2014.gdgnantes.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "https://devfest2015.gdgnantes.com/",
+          "text": "df-17",
+          "url": "https://devfest2017.gdgnantes.com/",
           "newTab": true
         },
         {
@@ -138,8 +123,23 @@
           "newTab": true
         },
         {
-          "text": "df-17",
-          "url": "https://devfest2017.gdgnantes.com/",
+          "text": "df-15",
+          "url": "https://devfest2015.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "https://devfest2014.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "https://devfest2013.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-12",
+          "url": "http://devfest2012.gdgnantes.com/",
           "newTab": true
         }
       ]
@@ -149,12 +149,12 @@
       "links": [
         {
           "text": "partnership-kit",
-          "url": "https://goo.gl/DjpHhC",
+          "url": "https://drive.google.com/drive/folders/1NYxFvg895-xoXvZ8V63YWEr1X8_LAXnI",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "https://goo.gl/1KstPx",
+          "url": "https://drive.google.com/drive/folders/1NYxFvg895-xoXvZ8V63YWEr1X8_LAXnI",
           "newTab": true
         }
       ]
@@ -280,7 +280,7 @@
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "early-ticket",
@@ -289,7 +289,7 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
@@ -298,13 +298,13 @@
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "info": "lazy-ticket-info",
-        "soldOut": true
+        "soldOut": false
       }
     ]
   },
   "statistics": [
     {
-      "counter": 1600,
+      "counter": 1800,
       "caption": "attendees"
     },
     {
@@ -316,11 +316,11 @@
       "caption": "tracks"
     },
     {
-      "counter": 64,
+      "counter": 70,
       "caption": "sessions"
     },
     {
-      "counter": 85,
+      "counter": 100,
       "caption": "speakers"
     }
   ]
