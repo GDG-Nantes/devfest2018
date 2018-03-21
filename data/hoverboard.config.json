@@ -1,0 +1,327 @@
+{
+  "url": "https://hoverboard.firebaseapp.com/",
+  "startDate": "2018-10-18T08:30:00+01:00",
+  "endDate": "2018-10-19T18:30:00+01:00",
+  "analytics": {
+    "prod": "UA-43643469-8",
+    "dev": "UA-43643469-9"
+  },
+  "organizer": {
+    "name": "GDG Nantes",
+    "twitter": "gdgnantes"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "devfest2018-",
+    "domain": "devfest2018-.firebaseapp.com",
+    "database": "https://devfest2018-.firebaseio.com",
+    "api": "AIzaSyAad7oGgdiHoLa2tEpBTY4jqzemIsOoikY",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "devfest2018"
+  },
+  "mailchimp": {
+    "url": "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d",
+    "name": "b_b44affc3cdfd00b20bcae502c_e0e7ceee5d"
+  },
+  "dateFormat": {
+    "locale": "fr-FR",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Français",
+      "key": "fr"
+    }
+  ],
+  "hashtag": "DevFestNantes",
+  "disqusShortName": "devfest.gdgnantes",
+  "tweetsSource": "https://tweeter-devfestnantes.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
+  "partnershipProposition": "partnership-proposition-url",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiXzoAZVGFoxToXp6onOzY3_",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "pratique",
+      "permalink": "/pratique/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "devfestnantes",
+      "url": "https://twitter.com/devfestnantes"
+    },
+    {
+      "name": "gplus",
+      "nickname": "Gdgnantes",
+      "url": "https://plus.google.com/+Gdgnantes"
+    },
+    {
+      "name": "facebook",
+      "nickname": "gdgnantes",
+      "url": "https://www.facebook.com/gdgnantes"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-12",
+          "url": "http://devfest2012.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "https://devfest2013.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "https://devfest2014.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "https://devfest2015.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-16",
+          "url": "https://devfest2016.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-17",
+          "url": "https://devfest2017.gdgnantes.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-kit",
+          "url": "https://goo.gl/DjpHhC",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "https://goo.gl/1KstPx",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "bureau@gdgnantes.com",
+        "url": "mailto:bureau@gdgnantes.com"
+      }
+    ]
+  },
+  "location": {
+    "pratiqueTitle": "location-pratique-title",
+    "title": "location-title",
+    "apiKey": "AIzaSyACfHSzG30jmydm6XXqA5J5YmGEwkAuie0",
+    "name": "location-title",
+    "address": "location-address",
+    "link": "http://www.lacite-nantes.fr/",
+    "pointer": {
+      "latitude": 47.2129658,
+      "longitude": -1.5425652,
+      "zoom": 5
+    },
+    "mapCenter": {
+      "latitude": 46.9666849,
+      "longitude": -1.4848352
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157688271908524",
+    "photos": {
+      "big": "/images/backgrounds/2017_1.jpg",
+      "small": [
+        "/images/backgrounds/2017_2.jpg",
+        "/images/backgrounds/2017_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "DevFest Nantes 2018",
+          "youtubeId": "xcYWs4YEISU",
+          "text": "play-icon"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "pratique": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero5.jpg",
+        "backgroundColor": "#66bb6a",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "team-page-title",
+      "text": "team-page-text",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "faq": {
+      "headerSettings": {
+        "backgroundColor": "#ffc107",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "tickets": {
+    "url": "https://www.billetweb.fr/devfest-nantes-2018",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 20,
+        "currency": "€",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "early-ticket",
+        "price": 70,
+        "currency": "€",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 90,
+        "currency": "€",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": true
+      }
+    ]
+  },
+  "statistics": [
+    {
+      "counter": 1600,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 4,
+      "caption": "tracks"
+    },
+    {
+      "counter": 64,
+      "caption": "sessions"
+    },
+    {
+      "counter": 85,
+      "caption": "speakers"
+    }
+  ]
+}

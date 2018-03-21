@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Julien Landuré",
+        "aka": "El Negociator",
+        "photoUrl": "/images/team/jlandure.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://google.com/+JulienLandure"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/jlandure"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/jlandure"
+          }
+        ],
+        "title": "CTO Zenika Nantes"
+      },
+      {
+        "name": "Jean-François Garreau",
+        "aka": "DemoStrator",
+        "photoUrl": "/images/team/jgarreau.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://google.com/+JeanFrancoisGarreau"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/jefBinomed"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/jefBinomed"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://jef.binomed.fr"
+          }
+        ],
+        "title": "Tech Lead Lucca"
+      },
+      {
+        "name": "Benjamin Petetot",
+        "aka": "Design Man",
+        "photoUrl": "/images/team/bpetetot.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://google.com/+BenjaminPetetot"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/bpetetot"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/bpetetot"
+          }
+        ],
+        "title": "Tech Lead Zenika Nantes"
+      },
+      {
+        "name": "Xavier Marc",
+        "aka": "Night's Knight",
+        "photoUrl": "/images/team/xmarc.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://plus.google.com/+XavierMarc"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/xavmrc"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/xavmarc"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/xaviermarc"
+          }
+        ],
+        "title": "Tech Lead Sogeti"
+      },
+      {
+        "name": "Aymeric Fouchault",
+        "aka": "Man Guyver",
+        "photoUrl": "/images/team/afouchault.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://google.com/+AymericFouchault"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/afouchault"
+          }
+        ],
+        "title": "Epitech Director"
+      },
+      {
+        "name": "Pierrick Guyard",
+        "aka": "Hell's Organizer",
+        "photoUrl": "/images/team/pguyard.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://google.com/+PierrickGuyard"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/PierrickGuyard"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/pguyard"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/pierrickguyard"
+          }
+        ],
+        "title": "Tech Lead Expandium"
+      },
+      {
+        "name": "Annabelle Koster",
+        "aka": "Com Girl",
+        "photoUrl": "/images/team/akoster.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/AnnabelleKoster"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/annabelle-koster-31129383/"
+          }
+        ],
+        "title": "Human Resources SII Atlantique"
+      }
+    ]
+  }
+]

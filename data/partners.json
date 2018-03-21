@@ -1,0 +1,19 @@
+[{
+  "title": "platinium-partner",
+  "logos": [{
+      "name": "Google",
+      "url": "https://www.google.com.ua/intl/en/about/",
+      "logoUrl": "../images/logos/google.svg",
+      "width": 250
+    }
+  ]
+}, {
+  "title": "after-partner",
+  "logos": []
+}, {
+  "title": "gold-partner",
+  "logos": []
+}, {
+  "title": "other-partner",
+  "logos": []
+}]
