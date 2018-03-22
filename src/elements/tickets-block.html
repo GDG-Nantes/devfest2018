@@ -5,6 +5,7 @@
 <link rel="import" href="../../bower_components/paper-button/paper-button.html">
 
 <link rel="import" href="../styles/shared-styles.html">
+<link rel="import" href="../behaviors/localize-behavior.html">
 <link rel="import" href="ticket-element.html">
 
 
@@ -77,7 +78,7 @@
             starts="[[localize(ticket.starts)]]"
             ends="[[localize(ticket.ends)]]"
             info="[[localize(ticket.info)]]"
-            sold-out="[[ticket.soldOut]]",
+            sold-out="[[ticket.soldOut]]"
             sold-out-text="[[localize('sold-out-tickets')]]">
           </ticket-element>
         </template>
@@ -96,6 +97,10 @@
 
       Polymer({
         is: 'tickets-block',
+
+        behaviors: [
+          HOVERBOARD.LocalizeBehavior
+        ],
 
         ready: function () {
           HOVERBOARD.Elements.Tickets = this
