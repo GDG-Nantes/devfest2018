@@ -176,12 +176,42 @@
       "latitude": 46.9666849,
       "longitude": -1.4848352
     },
+    "mapPratique": {
+      "latitude": 47.2129658,
+      "longitude": -1.532333,
+      "zoom": 14
+    },
     "images": [
       "/images/backgrounds/location_1.jpg",
       "/images/backgrounds/location_2.jpg",
       "/images/backgrounds/location_3.jpg"
     ]
   },
+  "transport": {
+      "title": "transport-pratique-title",
+      "elements": [
+        {
+          "icon": "train",
+          "title": "train-title",
+          "text": "train-text"
+        },
+        {
+          "icon": "tram",
+          "title": "tram-title",
+          "text": "tram-text"
+        },
+        {
+          "icon": "car",
+          "title": "car-title",
+          "text": "car-text"
+        },
+        {
+          "icon": "flight",
+          "title": "flight-title",
+          "text": "flight-text"
+        }
+      ]
+    },
   "gallery": {
     "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157688271908524",
     "photos": {
