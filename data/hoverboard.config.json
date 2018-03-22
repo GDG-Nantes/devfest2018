@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "http://devfest2018-site-beta.firebaseapp.com/",
   "startDate": "2018-10-18T08:30:00+01:00",
   "endDate": "2018-10-19T18:30:00+01:00",
   "analytics": {
@@ -16,13 +16,13 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "devfest2018-",
-    "domain": "devfest2018-.firebaseapp.com",
-    "database": "https://devfest2018-.firebaseio.com",
-    "api": "AIzaSyAad7oGgdiHoLa2tEpBTY4jqzemIsOoikY",
+    "name": "devfest2018-site-beta",
+    "domain": "http://devfest2018-site-beta.firebaseapp.com/",
+    "database": "https://devfest2018-site-beta.firebaseio.com",
+    "api": "",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "devfest2018"
+    "indexedDbSession": "devfest2018-beta"
   },
   "mailchimp": {
     "url": "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d",
@@ -146,7 +146,7 @@
         },
         {
           "text": "media-kit",
-          "url": "https://drive.google.com/drive/folders/1NYxFvg895-xoXvZ8V63YWEr1X8_LAXnI",
+          "url": "https://drive.google.com/drive/folders/1gGBsVN7z8O4pv-ZyETYDjoar_ED-DcNR",
           "newTab": true
         }
       ]
