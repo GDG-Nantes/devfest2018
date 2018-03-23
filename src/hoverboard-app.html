@@ -199,7 +199,7 @@
           <team-page name="team"
                      app="{{app}}"></team-page>
 
-          <faq-page name="faq" 
+          <faq-page name="faq"
                      app="{{app}}"></faq-page>
 
           <cod-page name="cod"
@@ -421,7 +421,7 @@
           }.bind(this))();
         },
 
-        _getAllUrlParams(url) {
+        _getAllUrlParams: function(url) {
 
           // get query string from url (optional) or window
           var queryString = url ? url.split('?')[1] : window.location.search.slice(1);
