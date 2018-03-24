@@ -4,5 +4,53 @@
     "title": "Keynote d'ouverture / Opening keynote",
     "speakers": "Pier Schneider",
     "thumbnail": "/images/sessions/pier_schneider.jpg"
+  },
+  {
+    "youtubeId": "96iIQuhTzsc",
+    "title": "An Android Retrospective",
+    "speakers": "Romain Guy & Chet Haase",
+    "thumbnail": "/images/sessions/romain_guy_chet_haase.jpg"
+  },
+  {
+    "youtubeId": "NoBbTAFQCxQ",
+    "title": "Start Using CSS Grid Layout Today",
+    "speakers": "Rachel Andrew",
+    "thumbnail": "/images/sessions/rachel_andrew.jpg"
+  },
+  {
+    "youtubeId": "m6i6YU9G3mo",
+    "title": "Docker for developers and ops: what's new and what's next",
+    "speakers": "Patrick Chanezon",
+    "thumbnail": "/images/sessions/patrick_chanezon.jpg"
+  },
+  {
+    "youtubeId": "_YfBNNe9IAo",
+    "title": "Code and Deploy Angular to the Cloud",
+    "speakers": "Simona Cotin & Asim Hussain",
+    "thumbnail": "/images/sessions/simona_cotin_asim_hussain.jpg"
+  },
+  {
+    "youtubeId": "ZVqsCKsQo9g",
+    "title": "Introduction to Android Instant Apps",
+    "speakers": "Cyril Mottier",
+    "thumbnail": "/images/sessions/cyril_mottier.jpg"
+  },
+  {
+    "youtubeId": "T6YJlaY0Dpw",
+    "title": "Documentation as Code (expliqué à mon père)",
+    "speakers": "Hubert Sablonnière",
+    "thumbnail": "/images/sessions/hubert_sablonniere.jpg"
+  },
+  {
+    "youtubeId": "O25xbCq_LFU",
+    "title": "The great SOA migration",
+    "speakers": "Charles-Axel Dein",
+    "thumbnail": "/images/sessions/charles-axel_dein.jpg"
+  },
+  {
+    "youtubeId": "uKEbKSM68dA",
+    "title": "Mixed Reality for Social Good",
+    "speakers": "Etienne Caron-Petit-Pas",
+    "thumbnail": "/images/sessions/etienne_caron-petit-pas.jpg"
   }
 ]

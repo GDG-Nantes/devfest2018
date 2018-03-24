@@ -1,1 +1,23 @@
-{}
+{
+    "101": {
+      "id": 101,
+      "name": "Name",
+      "featured": true,
+      "company": "Company",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "USA",
+      "photoUrl": "/images/speakers/default.jpg",
+      "shortBio": "Short Bio",
+      "bio": "Bio",
+      "tags": ["Cloud"],
+      "badges": [{
+        "name": "Google Advocate",
+        "description": "Google Developer Advocate"
+      }],
+      "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/xxxxxx"
+      }]
+    }
+}
