@@ -58,6 +58,10 @@
       "permalink": "/blog/"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
       "route": "pratique",
       "permalink": "/pratique/"
     },
@@ -345,5 +349,8 @@
       "counter": 100,
       "caption": "speakers"
     }
-  ]
+  ],
+  "cfp": { 
+    "url": "https://devfestnantes-2018.cfp" 
+  }
 }
