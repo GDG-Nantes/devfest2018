@@ -19,7 +19,11 @@
       },
 
       _generateClass: function (value) {
-        return value.replace(/\W+/g, '-').replace(/([a-z\d])([A-Z])/g, '$1-$2').toLowerCase();
+        if (value) {
+          return value.replace(/\W+/g, '-').replace(/([a-z\d])([A-Z])/g, '$1-$2').toLowerCase();
+        } else {
+          return 'general';
+        }
       },
 
       _randomOrder: function (array) {
