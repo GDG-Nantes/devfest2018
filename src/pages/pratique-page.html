@@ -58,23 +58,21 @@
         margin-left: 20px;
       }
 
+      .indoor-map-container {
+        @apply(--layout-center-justified);
+        padding-bottom: 10px;
+      }
+
+      .indoor-map {
+          width: 80%;
+          --iron-image-width: 100%;
+      }
+
       @media (min-width: 601px) {
         .details-icon {
           --iron-icon-height: 72px;
           --iron-icon-width: 72px;
           margin-right: 32px;
-        }
-      }
-
-      @media (max-width: 600px) {
-        .indoor-map {
-          max-width: 100%;
-          width: 100%;
-          height: auto !important;
-        }
-        .indoor-map-container {
-          max-width: 500px;
-          max-height: 500px;
         }
       }
 
