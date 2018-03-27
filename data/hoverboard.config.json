@@ -187,6 +187,7 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
+  "indoorMapTitle": "indoor-map-title",
   "transport": {
       "title": "transport-pratique-title",
       "elements": [
