@@ -95,9 +95,11 @@
         selected-class="selected"
       >
         <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
-          <a class="navigation-link" href="[[nav.permalink]]" name="[[nav.route]]" on-tap="closeDrawer">
-              {{localize(nav.route)}}
-          </a>
+          <template is="dom-if" if="[[nav.inMenu]]">
+            <a class="navigation-link" href="[[nav.permalink]]" name="[[nav.route]]" on-tap="closeDrawer">
+                {{localize(nav.route)}}
+            </a>
+          </template>
         </template>
         <a class="navigation-link" href="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
             {{localize('buy-ticket')}}

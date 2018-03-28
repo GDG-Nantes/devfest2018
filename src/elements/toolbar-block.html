@@ -150,9 +150,11 @@
         <template is="dom-if" if="[[!app.isPhoneSize]]">
           <paper-tabs selected="[[app.page]]" attr-for-selected="name" noink>
             <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
-              <paper-tab name="[[nav.route]]" link>
-                <a href="[[nav.permalink]]" class="nav-link">{{localize(nav.route)}}</a>
-              </paper-tab>
+              <template is="dom-if" if="[[nav.inMenu]]">
+                <paper-tab name="[[nav.route]]" link>
+                  <a href="[[nav.permalink]]" class="nav-link">{{localize(nav.route)}}</a>
+                </paper-tab>
+              </template>
             </template>
           </paper-tabs>
         </template>

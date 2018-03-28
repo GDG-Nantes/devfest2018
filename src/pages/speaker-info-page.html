@@ -1,0 +1,112 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html"> 
+
+<link rel="import" href="../elements/map-element.html">
+<link rel="import" href="../elements/footer-block.html"> 
+<link rel="import" href="../behaviors/page-behavior.html"> 
+<link rel="import" href="../behaviors/localize-behavior.html">
+<link rel="import" href="../behaviors/cascaded-behavior.html"> 
+ 
+ 
+<dom-module id="speaker-info-page"> 
+ 
+  <template> 
+ 
+    <style include="shared-styles"> 
+      :host { 
+        display: block; 
+      } 
+
+      .details {
+        @apply(--layout-vertical);
+        @apply(--layout-center-justified);
+      }
+
+      .details-item {
+        @apply(--layout-horizontal);
+        padding-bottom: 10px;
+      }
+
+      .details-title {
+        margin-top: 12px;
+        margin-bottom: 12px;
+        font-size: 34px;
+        font-weight: 400;
+      }
+
+      .details-text .markdown-html {
+        font-size: 16px;
+      }
+ 
+      @media (min-width: 1600px) { 
+        .container { 
+          max-width: 960px; 
+        } 
+      } 
+    </style> 
+ 
+    <div class="container">
+      <div class="details">
+        <template is="dom-repeat" items="[[app.data.infosSpeaker]]" as="infoSpeaker">
+          <div class="details-item" cascaded>
+            <div class="details-info">
+              <h4 class="details-title">[[localize(infoSpeaker.title)]]</h4>
+            </div>
+          </div>
+          <div class="details-item" cascaded>
+            <marked-element class="details-text" markdown="{{localize(infoSpeaker.text)}}">
+              <div class="markdown-html"></div>
+            </marked-element>
+          </div>
+        </template>
+
+        <div class="details-item" cascaded>
+          <div class="details-info">
+            <h4 class="details-title">[[localize('title-speaker-hotel')]]</h4>
+          </div>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize('text-speaker-hotel')}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <map-element app="{{app}}" location="{{app.data.location.mapHotelSpeaker}}" cascaded></map-element>
+
+        <div class="details-item" cascaded>
+          <div class="details-info">
+            <h4 class="details-title">[[localize('title-speaker-dinner')]]</h4>
+          </div>
+        </div>
+        <marked-element class="details-text" markdown="{{localize('text-speaker-dinner')}}">
+          <div class="markdown-html"></div>
+        </marked-element>
+      
+        <map-element app="{{app}}" location="{{app.data.location.mapDinnerSpeaker}}" cascaded></map-element>
+      
+      </div>
+    </div>
+ 
+    <footer-block app="{{app}}" cascaded></footer-block> 
+ 
+  </template> 
+ 
+  <script> 
+    (function () { 
+      'use strict'; 
+ 
+      Polymer({ 
+ 
+        is: 'speaker-info-page', 
+ 
+        behaviors: [ 
+          HOVERBOARD.PageBehavior, 
+          HOVERBOARD.CascadedBehavior,
+          HOVERBOARD.LocalizeBehavior 
+        ] 
+ 
+      }); 
+ 
+    })(); 
+  </script> 
+ 
+</dom-module> 

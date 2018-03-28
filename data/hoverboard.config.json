@@ -52,23 +52,33 @@
   "navigation": [
     {
       "route": "home",
-      "permalink": "/"
+      "permalink": "/",
+      "inMenu": true
     },
     {
       "route": "blog",
-      "permalink": "/blog/"
+      "permalink": "/blog/",
+      "inMenu": true
     },
     {
       "route": "pratique",
-      "permalink": "/pratique/"
+      "permalink": "/pratique/",
+      "inMenu": true
+    },
+    {
+      "route": "speaker-info",
+      "permalink": "/speaker-info/",
+      "inMenu": false
     },
     {
       "route": "team",
-      "permalink": "/team/"
+      "permalink": "/team/",
+      "inMenu": true
     },
     {
       "route": "faq",
-      "permalink": "/faq/"
+      "permalink": "/faq/",
+      "inMenu": true
     }
   ],
   "social": [
@@ -162,11 +172,9 @@
     ]
   },
   "location": {
-    "pratiqueTitle": "location-pratique-title",
-    "title": "location-title",
     "apiKey": "AIzaSyACfHSzG30jmydm6XXqA5J5YmGEwkAuie0",
-    "name": "location-title",
-    "address": "location-address",
+    "name": "Cité des Congrès, Nantes",
+    "address": "5 rue de Valmy",
     "link": "http://www.lacite-nantes.fr/",
     "pointer": {
       "latitude": 47.2129658,
@@ -178,9 +186,44 @@
       "longitude": -1.4848352
     },
     "mapPratique": {
+      "title": "location-pratique-title",
+      "name": "Cité des Congrès, Nantes",
+      "address": "5 rue de Valmy",
+      "city": "location-city",
       "latitude": 47.2129658,
       "longitude": -1.532333,
-      "zoom": 14
+      "zoom": 14,
+      "pointer": {
+        "latitude": 47.2129658,
+        "longitude": -1.5425652,
+        "zoom": 5
+      }
+    },
+    "mapHotelSpeaker": {
+      "name": "Residhome Appart Hotel",
+      "address": "3 Allée Jacques Berque",
+      "city": "location-city",
+      "latitude": 47.2122829,
+      "longitude": -1.538086,
+      "zoom": 15,
+      "pointer": {
+        "latitude": 47.2122829,
+        "longitude": -1.538086,
+        "zoom": 5
+      }
+    },
+    "mapDinnerSpeaker": {
+      "name": "Vertigo",
+      "address": "3 Mail du Front populaire",
+      "city": "location-city",
+      "latitude": 47.2067001,
+      "longitude": -1.5627165,
+      "zoom": 15,
+      "pointer": {
+        "latitude": 47.2067001,
+        "longitude": -1.5627165,
+        "zoom": 5
+      }
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -243,6 +286,13 @@
     "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speaker-info": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -346,6 +396,20 @@
     {
       "counter": 100,
       "caption": "speakers"
+    }
+  ],
+  "infosSpeaker": [
+    {
+      "title": "title-speaker-arrival",
+      "text": "text-speaker-arrival"
+    },
+    {
+      "title": "title-speaker-session",
+      "text": "text-speaker-session"
+    },
+    {
+      "title": "title-speaker-slides",
+      "text": "text-speaker-slides"
     }
   ]
 }
