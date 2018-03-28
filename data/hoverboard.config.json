@@ -42,6 +42,8 @@
       "key": "fr"
     }
   ],
+  "description": "LE festival des développeurs organisé par des développeurs ! Tout sur le Mobile, IoT, Web et Cloud présenté par des experts du monde entier pour une des plus grandes conférences techniques.",
+  "keywords": "event, gdg, gde, devfest, nantes, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "hashtag": "DevFestNantes",
   "disqusShortName": "devfest.gdgnantes",
   "tweetsSource": "https://tweeter-devfestnantes.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
