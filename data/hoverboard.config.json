@@ -68,8 +68,8 @@
       "inMenu": true
     },
     {
-      "route": "speaker-info",
-      "permalink": "/speaker-info/",
+      "route": "speaker",
+      "permalink": "/speaker/",
       "inMenu": false
     },
     {
@@ -292,7 +292,7 @@
         "tabBarColor": "#fff"
       }
     },
-    "speaker-info": {
+    "speaker": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
