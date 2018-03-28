@@ -96,7 +96,7 @@
   "location-city": "44000 Nantes",
   "hotel-description-residhome": "Situé juste en face de la Cité des Congrès, le Residhome les Berges de la Loire vous propose des tarifs négociés avec le code \"DEVFEST 2018\".",
   "hotel-price-reservation-text-residhome": "Studio Standard : 95.00€ TTC par nuit en occupation single, double ou twin. <br>Petit Déjeuner Buffet Américain : 11.50€ par personne par jour. <br>Taxe de séjour : 2.25€ par personne par jour. <br>Réservation : <a href='mailto:caroline.dulong@reside-etudes.fr'>caroline.dulong@reside-etudes.fr</a> et <a href='mailto:corinne.lallemand@reside-etudes.fr'>corinne.lallemand@reside-etudes.fr</a> ou <a href='tel:+33240990707'>(+33)2 40 99 07 07</a>.",
-  "organizer": "Organisateurs",
+  "organizers": "Organisateurs",
   "about-organizers": "<a href='http://www.gdgnantes.com' target='_blank'>GDG Nantes</a> est fier d'organiser le DevFest Nantes<br/><br/> Et un grand merci à tous les étudiants bénévoles d'Epitech Nantes",
   "open-team-page": "Voir toute l'équipe",
   "what-is-gdg": "Qu'est-ce que le GDG?",
