@@ -227,7 +227,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/space_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -242,6 +242,7 @@
     "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
+        "backgroundImage": "/images/backgrounds/space_2.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -249,6 +250,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/space_3.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -256,14 +258,15 @@
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/space_4.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "pratique": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero5.jpg",
         "backgroundColor": "#66bb6a",
+        "backgroundImage": "/images/backgrounds/space_5.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -273,6 +276,7 @@
       "text": "team-page-text",
       "headerSettings": {
         "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/space_6.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -280,6 +284,7 @@
     "faq": {
       "headerSettings": {
         "backgroundColor": "#ffc107",
+        "backgroundImage": "/images/backgrounds/space_7.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -288,6 +293,7 @@
       "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/space_8.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
