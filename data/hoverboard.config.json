@@ -48,6 +48,7 @@
   "partnershipProposition": "partnership-proposition-url",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiXzoAZVGFoxToXp6onOzY3_",
   "enableSessionsRating": true,
+  "codPath": "cod-path",
   "navigation": [
     {
       "route": "home",
