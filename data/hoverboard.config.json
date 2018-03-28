@@ -226,7 +226,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#ff9800",
         "backgroundImage": "/images/backgrounds/space_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
@@ -241,7 +241,7 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_2.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -249,7 +249,7 @@
     },
     "speakers": {
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_3.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -257,7 +257,7 @@
     },
     "schedule": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_4.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -265,7 +265,7 @@
     },
     "pratique": {
       "headerSettings": {
-        "backgroundColor": "#66bb6a",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_5.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -275,7 +275,7 @@
       "title": "team-page-title",
       "text": "team-page-text",
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_6.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -283,7 +283,7 @@
     },
     "faq": {
       "headerSettings": {
-        "backgroundColor": "#ffc107",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_7.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -292,7 +292,7 @@
     "cod": {
       "title": "Code of Conduct",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_8.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
