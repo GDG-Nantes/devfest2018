@@ -63,6 +63,10 @@
       "inMenu": true
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
       "route": "pratique",
       "permalink": "/pratique/",
       "inMenu": true
@@ -406,6 +410,9 @@
       "caption": "speakers"
     }
   ],
+  "cfp": { 
+    "url": "https://cfp.gdgnantes.com" 
+  },
   "infosSpeaker": [
     {
       "title": "title-speaker-arrival",
