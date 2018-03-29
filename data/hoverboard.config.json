@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#ecc491",
+    "backgroundColor": "#ecc491"
   },
   "firebase": {
     "name": "devfest2018-site-beta",
@@ -226,7 +226,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#ff9800",
+        "backgroundColor": "#ecc491",
         "backgroundImage": "/images/backgrounds/space_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
