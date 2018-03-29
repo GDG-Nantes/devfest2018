@@ -8,7 +8,7 @@
 
 <link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
-<link rel="import" href="../elements/map-pratique-block.html">
+<link rel="import" href="../elements/map-element.html">
 <link rel="import" href="../elements/transport-element.html">
 <link rel="import" href="../elements/hotel-element.html">
 <link rel="import" href="../elements/footer-block.html">
@@ -58,23 +58,21 @@
         margin-left: 20px;
       }
 
+      .indoor-map-container {
+        @apply(--layout-center-justified);
+        padding-bottom: 10px;
+      }
+
+      .indoor-map {
+          width: 80%;
+          --iron-image-width: 100%;
+      }
+
       @media (min-width: 601px) {
         .details-icon {
           --iron-icon-height: 72px;
           --iron-icon-width: 72px;
           margin-right: 32px;
-        }
-      }
-
-      @media (max-width: 600px) {
-        .indoor-map {
-          max-width: 100%;
-          width: 100%;
-          height: auto !important;
-        }
-        .indoor-map-container {
-          max-width: 500px;
-          max-height: 500px;
         }
       }
 
@@ -103,10 +101,10 @@
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="location"></iron-icon>
-          <h4 class="details-title">[[localize(app.data.location.pratiqueTitle)]]</h4>
+          <h4 class="details-title">[[localize(app.data.location.mapPratique.title)]]</h4>
         </div>
 
-        <map-pratique-block app="{{app}}" cascaded></map-pratique-block>
+        <map-element app="{{app}}" location="{{app.data.location.mapPratique}}" cascaded></map-element>
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="directions"></iron-icon>

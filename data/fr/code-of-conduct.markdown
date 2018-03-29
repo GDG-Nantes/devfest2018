@@ -5,4 +5,4 @@ Le GDG Nantes est fier d'être une communauté ouverte, respectant les différen
 
 Si quelqu'un vous indispose de cette façon, merci de contacter immédiatement les organisateurs qui s'occuperont de prendre les mesures nécessaires. Nous voulons garder le DevFest respectueux d'autrui et en faire un événement convivial.
 
-[Version complète](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick)
+[Version complète](https://meta.wikimedia.org/wiki/Ne_jouez_pas_au_con_!)

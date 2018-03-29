@@ -122,7 +122,6 @@
         });
 
         myWorker.addEventListener('message', function(e) {
-          console.log("pas ici");
           this.set('schedule', e.data.schedule);
           this.set('sessions', e.data.sessions);
           this.set('speakers', e.data.speakers);

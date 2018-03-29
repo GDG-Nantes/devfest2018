@@ -92,10 +92,6 @@
         color: #fff;
       }
 
-      .additional-space {
-        display: none;
-      }
-
       @media (min-width: 601px) {
         .card {
           min-width: 400px;
@@ -105,11 +101,6 @@
       @media (min-width: 961px) {
         :host {
           padding: 100px 0;
-        }
-
-        .additional-space {
-          @apply(--layout);
-          @apply(--layout-flex);
         }
       }
     </style>
@@ -132,12 +123,11 @@
     >
     <div class="disable-map-events"></div>
     <div class="container">
-      <div class="additional-space"></div>
-      <div class="card-wrapper">
+      <div>
         <paper-card class="card">
           <div class="header paper-card">
             <div class="header-image" style$="background-image: url([[_currentImage]])"></div>
-            <div class="title-text">[[localize('location-title')]]</div>
+            <div class="title-text">[[app.data.location.name]]</div>
           </div>
           <div class="paper-card-container">
             <div class="card-content list">
@@ -148,7 +138,7 @@
               <paper-icon-item disabled>
                 <iron-icon icon="icons:location" item-icon></iron-icon>
                 <paper-item-body two-line>
-                  <div>[[localize('location-address')]]</div>
+                  <div>[[app.data.location.address]]</div>
                   <div secondary>[[localize('location-city')]]</div>
                 </paper-item-body>
               </paper-icon-item>

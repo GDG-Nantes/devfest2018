@@ -14,7 +14,7 @@
 <link rel="import" href="../behaviors/localize-behavior.html">
 
 
-<dom-module id="map-pratique-block">
+<dom-module id="map-element">
 
   <template>
 
@@ -97,15 +97,15 @@
     </style>
 
     <google-map
-      zoom="[[app.data.location.mapPratique.zoom]]"
-      latitude="[[app.data.location.mapPratique.latitude]]"
-      longitude="[[app.data.location.mapPratique.longitude]]"
+      zoom="[[location.zoom]]"
+      latitude="[[location.latitude]]"
+      longitude="[[location.longitude]]"
       api-key="[[app.data.location.apiKey]]"
       styles="[[options]]"
       disable-zoom disable-default-ui>
       <google-map-marker
-        latitude="[[app.data.location.pointer.latitude]]"
-        longitude="[[app.data.location.pointer.longitude]]">
+        latitude="[[location.pointer.latitude]]"
+        longitude="[[location.pointer.longitude]]">
       </google-map-marker>
     </google-map>
 
@@ -115,21 +115,21 @@
       <div class="card-wrapper">
         <paper-card class="card">
           <div class="header paper-card">
-            <div class="title-text">[[localize('location-title')]]</div>
+            <div class="title-text">[[location.name]]</div>
           </div>
           <div class="paper-card-container">
             <div class="card-content list">
               <paper-icon-item disabled>
                 <iron-icon icon="icons:location" item-icon></iron-icon>
                 <paper-item-body two-line>
-                  <div>[[localize('location-address')]]</div>
-                  <div secondary>[[localize('location-city')]]</div>
+                  <div>[[location.address]]</div>
+                  <div secondary>[[localize(location.city)]]</div>
                 </paper-item-body>
               </paper-icon-item>
             </div>
             <div class="card-actions">
               <a class="bottom-link"
-                 href$="https://www.google.com/maps/dir/[[app.data.location.pointer.latitude]],[[app.data.location.pointer.longitude]]/@[[app.data.location.pointer.latitude]],[[app.data.location.pointer.longitude]],18z"
+                 href$="https://www.google.com/maps/dir/[[location.pointer.latitude]],[[location.pointer.longitude]]/@[[location.pointer.latitude]],[[location.pointer.longitude]],18z"
                  target="_blank"
                  rel="noopener noreferrer">
                 <paper-icon-button icon="icons:directions"></paper-icon-button>
@@ -148,13 +148,17 @@
 
       Polymer({
 
-        is: 'map-pratique-block',
+        is: 'map-element',
 
         behaviors: [
           HOVERBOARD.LocalizeBehavior
         ],
-
+        
         properties: {
+          location: {
+            type: Object
+          },
+
           options: {
             type: String,
             value: function () {

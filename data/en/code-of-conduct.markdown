@@ -4,4 +4,4 @@ The GDG Nantes is proud to be an open community that respects differences and di
 
 If someone bothers you in any way, we request you to immediately contact the organizers who will put in place the necessary measures. We want to keep the DevFest respectful of others and make it a socially enjoyable event.
 
-[Full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick)
+[Full version](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk)
