@@ -64,7 +64,8 @@
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/"
+      "permalink": "/speakers/",
+      "inMenu": true
     },
     {
       "route": "pratique",
@@ -276,10 +277,10 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#ecc491",
+        "backgroundColor": "#e1bc8b",
         "backgroundImage": "/images/backgrounds/space_1.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd",
         "video": {
           "title": "DevFest Nantes 2018",
           "youtubeId": "xcYWs4YEISU",
@@ -293,39 +294,40 @@
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_2.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "speaker": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "backgroundImage": "/images/backgrounds/space_5.jpg",
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_3.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_4.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "pratique": {
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_5.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "team": {
@@ -334,16 +336,16 @@
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_6.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "faq": {
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_7.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd"
       }
     },
     "cod": {
