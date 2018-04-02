@@ -277,7 +277,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#e1bc8b",
+        "backgroundColor": "#C15017",
         "backgroundImage": "/images/backgrounds/space_1.jpg",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
@@ -412,8 +412,8 @@
       "caption": "speakers"
     }
   ],
-  "cfp": { 
-    "url": "https://cfp.gdgnantes.com" 
+  "cfp": {
+    "url": "https://cfp.gdgnantes.com"
   },
   "infosSpeaker": [
     {
