@@ -1,11 +1,11 @@
 [
   {
-    "id": "devfest-nantes-summary",
-    "title": "Résumé DevFest Nantes 2017",
-    "posted": "2018-03-25",
-    "primaryColor": "#5a7785",
-    "secondaryColor": "#455a64",
-    "image": "/images/posts/summary.jpg",
-    "brief": "DevFest Nantes 2017 : le résumé !"
+    "id": "devfest-2018-announced",
+    "title": "Annonce du DevFest Nantes 2018",
+    "posted": "2018-04-02",
+    "primaryColor": "#44504e",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/announce.jpg",
+    "brief": "Le GDG Nantes est fier de vous annoncer la 7ème édition du DevFest Nantes! L'événement aura lieu les 18 et 19 Octobre 2018 à la Cité des Congrès de Nantes."
   }
 ]
