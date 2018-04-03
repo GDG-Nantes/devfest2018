@@ -1,1 +1,0 @@
-[DevFest Nantes 2017](https://devfest2017.gdgnantes.com/) is now over. It was a great success.
