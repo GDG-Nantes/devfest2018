@@ -67,13 +67,15 @@
           <a href$="[[_posts.0.url]]">[[localize('continue-reading')]]</a>
         </div>
         <span class="post-divider"></span>
-        <div class="post">
-          <div class="title">[[_posts.1.title]]</div>
-          <marked-element markdown="[[_posts.1.brief]]">
-            <div class="markdown-html"></div>
-          </marked-element>
-          <a href$="[[_posts.1.url]]">[[localize('continue-reading')]]</a>
-        </div>
+        <template is="dom-if" if="{{_posts.1}}">
+          <div class="post">
+            <div class="title">[[_posts.1.title]]</div>
+            <marked-element markdown="[[_posts.1.brief]]">
+              <div class="markdown-html"></div>
+            </marked-element>
+            <a href$="[[_posts.1.url]]">[[localize('continue-reading')]]</a>
+          </div>
+        </template>
       </div>
     </div>
 
