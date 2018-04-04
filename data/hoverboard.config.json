@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "devfest2018-beta",
-    "domain": "http://devfest2018-site-beta.firebaseapp.com/",
+    "domain": "devfest2018-site-beta.firebaseapp.com",
     "database": "https://devfest2018-site-beta.firebaseio.com",
     "api": "",
     "userSessionsPath": "/userSessions",
