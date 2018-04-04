@@ -19,7 +19,7 @@
     "name": "devfest2018-beta",
     "domain": "devfest2018-site-beta.firebaseapp.com",
     "database": "https://devfest2018-site-beta.firebaseio.com",
-    "api": "",
+    "api": "AIzaSyDgHSmQKybNgu52g2PfsEi8ccH3aY8YouE",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "devfest2018-beta"
