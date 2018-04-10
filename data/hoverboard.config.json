@@ -295,7 +295,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_2.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"THAT'S ONE STEP FOR MAN, ONE GIANT LEAP FOR MANKIND\"",
+        "authorCitation": "NEIL ARMSTRONG"
       }
     },
     "speaker": {
@@ -303,7 +305,9 @@
         "backgroundColor": "#3f51b5",
         "backgroundImage": "/images/backgrounds/space_5.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"HUSTON, TRANQUILITY BASE HERE THE EAGLE HAS LANDED\"",
+        "authorCitation": "NEIL ARMSTRONG"
       }
     },
     "speakers": {
@@ -311,7 +315,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_3.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"THE STARS DON'T LOOK BIGGER, BUT THEY LOOK BRIGHTER\"",
+        "authorCitation": "SALLY RIDE"
       }
     },
     "schedule": {
@@ -319,7 +325,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_4.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"FAILURE IS NOT AN OPTION\"",
+        "authorCitation": "APOLLO 13 RESCUE MISSION"
       }
     },
     "pratique": {
@@ -327,7 +335,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_5.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"HUSTON, TRANQUILITY BASE HERE THE EAGLE HAS LANDED\"",
+        "authorCitation": "NEIL ARMSTRONG"
       }
     },
     "team": {
@@ -337,7 +347,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_6.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"WE ARE LIMITED ONLY BY OUR IMAGINATION AND OUR WILL TO ACT\"",
+        "authorCitation": "RON GARAN"
       }
     },
     "faq": {
@@ -345,7 +357,9 @@
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_7.jpg",
         "fontColor": "#faf6dd",
-        "tabBarColor": "#faf6dd"
+        "tabBarColor": "#faf6dd",
+        "citation": "\"OK HUSTON, WE'VE HAD A PROBLEM HERE\"",
+        "authorCitation": "JACK SWIGERT, APOLLO 13"
       }
     },
     "cod": {
@@ -353,8 +367,10 @@
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_8.jpg",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "fontColor": "#faf6dd",
+        "tabBarColor": "#faf6dd",
+        "citation": "\"WE CAME IN PEACE FOR ALL MANKIND\"",
+        "authorCitation": "NEIL ARMSTRONG"
       }
     }
   },

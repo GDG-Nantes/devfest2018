@@ -48,6 +48,12 @@
         box-sizing: border-box;
       }
 
+      .container .page-citation, .page-author-citation {
+        padding-right: 25%;
+        width: 30%;
+        text-align: right;
+      }
+
       .reset-padding-bottom {
         padding-bottom: 0 !important;
       }
@@ -62,6 +68,16 @@
       }
 
       .page-subtitle {
+        font-size: 16px;
+      } 
+
+      .page-citation {
+        margin: auto 0 0 auto;
+        font-size: 22px;
+      }
+
+      .page-author-citation {
+        margin: 0 0 0 auto;
         font-size: 16px;
       }
 
@@ -126,6 +142,13 @@
           min-height: 360px;
         }
       }
+      
+      @media (max-width: 1400px) {
+        .container .page-citation, .page-author-citation {
+          padding-right: 15%;
+          width: 40%;
+        }
+      }
 
     </style>
 
@@ -158,41 +181,73 @@
             <h3 class="page-title" hidden$="{{app.headerSettings.title}}">{{localize('blog')}}</h3>
             <h3 class="page-title" hidden$="{{!app.headerSettings.title}}">[[app.headerSettings.title]]</h3>
             <div class="page-subtitle" hidden$="{{!app.headerSettings.subtitle}}">[[app.headerSettings.subtitle]]</div>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation" hidden$="{{app.headerSettings.title}}">{$ pages.blog.headerSettings.authorCitation $}</div>
+              <div class="page-citation" hidden$="{{app.headerSettings.title}}">{$ pages.blog.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="speaker">
           <div class="container">
             <h3 class="page-title">{{localize('speaker')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.speaker.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.speaker.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="speakers">
           <div class="container">
             <h3 class="page-title">{{localize('speakers')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.speakers.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.speakers.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="schedule">
           <div class="container">
             <h3 class="page-title">{{localize('schedule')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.schedule.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.schedule.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
          <animatable-content name="pratique">
           <div class="container">
             <h3 class="page-title">{{localize('pratique')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.pratique.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.pratique.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="team">
           <div class="container">
             <h3 class="page-title">{{localize('team')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.team.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.team.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="faq">
           <div class="container">
             <h3 class="page-title">{{localize('faq')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.faq.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.faq.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
         <animatable-content name="cod">
           <div class="container">
             <h3 class="page-title">{{localize('cod')}}</h3>
+            <template is="dom-if" if="[[app.isDesktopSize]]">
+              <div class="page-author-citation">{$ pages.cod.headerSettings.authorCitation $}</div>
+              <div class="page-citation">{$ pages.cod.headerSettings.citation $}</div>
+            </template>
           </div>
         </animatable-content>
       </neon-animated-pages>
