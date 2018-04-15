@@ -2,8 +2,14 @@
   "title": "platinium-partner",
   "logos": [{
       "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/",
+      "url": "https://www.google.com.ua/intl/en/about",
       "logoUrl": "../images/logos/google.svg",
+      "width": 250
+    },
+    {
+      "name": "SFEIR",
+      "url": "https://www.sfeir.com",
+      "logoUrl": "../images/logos/sfeir.png",
       "width": 250
     }
   ]
@@ -15,5 +21,41 @@
   "logos": []
 }, {
   "title": "other-partner",
-  "logos": []
+  "logos": [{
+      "name": "Luiza Laffitte",
+      "url": "http://www.luizalaffitte.com",
+      "logoUrl": "../images/logos/luiza_laffitte.png",
+      "width": 180
+    },
+    {
+      "name": "Mstream",
+      "url": "http://www.mstream.fr",
+      "logoUrl": "../images/logos/mstream.png",
+      "width": 180
+    },
+    {
+      "name": "Billetweb",
+      "url": "https://www.billetweb.fr",
+      "logoUrl": "../images/logos/billetweb.png",
+      "width": 180
+    },
+    {
+      "name": "Choose Your Boss",
+      "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2018",
+      "logoUrl": "../images/logos/cyb.png",
+      "width": 180
+    },
+    {
+      "name": "NantesTech",
+      "url": "http://www.nantestech.fr",
+      "logoUrl": "../images/logos/nantestech.png",
+      "width": 180
+    },
+    {
+      "name": "Nantes Métropole",
+      "url": "http://www.nantesmetropole.fr",
+      "logoUrl": "../images/logos/nantesmetropole.png",
+      "width": 180
+    }
+  ]
 }]
