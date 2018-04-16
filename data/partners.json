@@ -18,7 +18,12 @@
   "logos": []
 }, {
   "title": "gold-partner",
-  "logos": []
+  "logos": [{
+    "name": "FaberNovel",
+    "url": "https://www.fabernovel.com/",
+    "logoUrl": "../images/logos/fabernovel.svg",
+    "width": 220
+  }]
 }, {
   "title": "other-partner",
   "logos": [{
