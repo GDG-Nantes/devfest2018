@@ -11,6 +11,18 @@
       "url": "https://www.sfeir.com",
       "logoUrl": "../images/logos/sfeir.png",
       "width": 250
+    },
+    {
+      "name": "Creative",
+      "url": "http://www.groupe-creative.fr",
+      "logoUrl": "../images/logos/creative.png",
+      "width": 250
+    },
+    {
+      "name": "Groupe onepoint",
+      "url": "http://www.groupeonepoint.com",
+      "logoUrl": "../images/logos/onepoint.png",
+      "width": 250
     }
   ]
 }, {
@@ -19,11 +31,18 @@
 }, {
   "title": "gold-partner",
   "logos": [{
-    "name": "FaberNovel",
-    "url": "https://www.fabernovel.com/",
-    "logoUrl": "../images/logos/fabernovel.svg",
-    "width": 220
-  }]
+      "name": "FaberNovel",
+      "url": "https://www.fabernovel.com",
+      "logoUrl": "../images/logos/fabernovel.svg",
+      "width": 220
+    },
+    {
+      "name": "VIF",
+      "url": "http://www.vif.fr",
+      "logoUrl": "../images/logos/vif.png",
+      "width": 220
+    }
+  ]
 }, {
   "title": "other-partner",
   "logos": [{
