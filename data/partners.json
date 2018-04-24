@@ -41,6 +41,18 @@
       "url": "http://www.vif.fr",
       "logoUrl": "../images/logos/vif.png",
       "width": 220
+    },
+    {
+      "name": "Cat-Amania",
+      "url": "https://www.cat-amania.com/",
+      "logoUrl": "../images/logos/catamania.png",
+      "width": 220
+    },
+    {
+      "name": "SERLI",
+      "url": "http://www.serli.com/",
+      "logoUrl": "../images/logos/serli.png",
+      "width": 220
     }
   ]
 }, {
