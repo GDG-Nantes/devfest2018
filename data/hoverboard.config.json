@@ -63,11 +63,6 @@
       "inMenu": true
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "inMenu": true
-    },
-    {
       "route": "pratique",
       "permalink": "/pratique/",
       "inMenu": true
