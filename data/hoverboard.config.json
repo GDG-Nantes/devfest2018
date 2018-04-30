@@ -98,6 +98,11 @@
       "name": "facebook",
       "nickname": "gdgnantes",
       "url": "https://www.facebook.com/gdgnantes"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "gdg-nantes",
+      "url": "https://www.linkedin.com/in/gdg-nantes/"
     }
   ],
   "footerBlocks": [
