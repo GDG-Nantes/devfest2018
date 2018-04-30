@@ -1,5 +1,5 @@
 {
-  "url": "http://devfest2018-site-beta.firebaseapp.com/",
+  "url": "http://devfest2018-site.firebaseapp.com/",
   "startDate": "2018-10-18T08:30:00+01:00",
   "endDate": "2018-10-19T18:30:00+01:00",
   "analytics": {
@@ -16,13 +16,13 @@
     "backgroundColor": "#ecc491"
   },
   "firebase": {
-    "name": "devfest2018-beta",
-    "domain": "devfest2018-site-beta.firebaseapp.com",
-    "database": "https://devfest2018-site-beta.firebaseio.com",
-    "api": "AIzaSyDgHSmQKybNgu52g2PfsEi8ccH3aY8YouE",
+    "name": "devfest2018",
+    "domain": "devfest2018-site.firebaseapp.com",
+    "database": "https://devfest2018-site.firebaseio.com",
+    "api": "AIzaSyAlmudkgp_ns9kaFTQ_kPKsdZGprFw2y7Q",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "devfest2018-beta"
+    "indexedDbSession": "devfest2018"
   },
   "mailchimp": {
     "url": "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d",
