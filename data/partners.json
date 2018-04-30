@@ -23,6 +23,12 @@
       "url": "http://www.groupeonepoint.com",
       "logoUrl": "../images/logos/onepoint.png",
       "width": 250
+    },
+    {
+      "name": "Apside",
+      "url": "http://www.apside.com",
+      "logoUrl": "../images/logos/apside.png",
+      "width": 250
     }
   ]
 }, {
@@ -44,19 +50,19 @@
     },
     {
       "name": "Cat-Amania",
-      "url": "https://www.cat-amania.com/",
+      "url": "https://www.cat-amania.com",
       "logoUrl": "../images/logos/catamania.png",
       "width": 220
     },
     {
       "name": "SERLI",
-      "url": "http://www.serli.com/",
+      "url": "http://www.serli.com",
       "logoUrl": "../images/logos/serli.png",
       "width": 220
     },
     {
       "name": "SII",
-      "url": "http://www.groupe-sii.com/",
+      "url": "http://www.groupe-sii.com",
       "logoUrl": "../images/logos/sii.png",
       "width": 220
     }
