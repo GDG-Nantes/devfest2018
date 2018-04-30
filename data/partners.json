@@ -53,6 +53,12 @@
       "url": "http://www.serli.com/",
       "logoUrl": "../images/logos/serli.png",
       "width": 220
+    },
+    {
+      "name": "SII",
+      "url": "http://www.groupe-sii.com/",
+      "logoUrl": "../images/logos/sii.png",
+      "width": 220
     }
   ]
 }, {
