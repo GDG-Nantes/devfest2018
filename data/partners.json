@@ -88,12 +88,6 @@
       "width": 180
     },
     {
-      "name": "Billetweb",
-      "url": "https://www.billetweb.fr",
-      "logoUrl": "../images/logos/billetweb.png",
-      "width": 180
-    },
-    {
       "name": "Choose Your Boss",
       "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2018",
       "logoUrl": "../images/logos/cyb.png",
