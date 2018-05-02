@@ -93,7 +93,7 @@ const formatForSlackCommand = (data) => {
   const diffEA = Number(data[3]) - Number(data[2])
   console.log(`{
     "response_type": "in_channel",
-    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places.\n Early: ${data[2]} / ${data[3]} : reste ${diffEA} places",
+    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places. -- Early: ${data[2]} / ${data[3]} : reste ${diffEA} places",
     "attachments": [
         {
             "text":"${getFunMessage(diff)}"
@@ -102,7 +102,7 @@ const formatForSlackCommand = (data) => {
   }`)
   return `{
     "response_type": "in_channel",
-    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places.\n Early: ${data[2]} / ${data[3]} : reste ${diffEA} places",
+    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places. -- Early: ${data[2]} / ${data[3]} : reste ${diffEA} places",
     "attachments": [
         {
             "text":"${getFunMessage(diff)}"
