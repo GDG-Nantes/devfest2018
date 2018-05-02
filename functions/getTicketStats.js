@@ -63,10 +63,12 @@ const getData = () => {
 }
 
 const parseAndGetData = (data) => {
-  const re = /\"ticketQuantity[\D]+([\d]+)[\s]+\/[\s]+([\d]+)/
+  const re = /\"ticketQuantity[\D]+([\d]+)[\s]+\/[\s]+([\d]+)/g
   const elements = re.exec(data)
+  // for early birds
+  const nextElements = re.exec(data)
   //return only the captured group
-  return [elements[1], elements[2]]
+  return [elements[1], elements[2], nextElements[1], nextElements[2]]
 }
 
 const getFunMessage = (diff) => {
@@ -88,9 +90,10 @@ const getFunMessage = (diff) => {
 
 const formatForSlackCommand = (data) => {
   const diff = Number(data[1]) - Number(data[0])
+  const diffEA = Number(data[3]) - Number(data[2])
   console.log(`{
     "response_type": "in_channel",
-    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places.",
+    "text": "Tickets achetés: ${data[0]} / ${data[1]}. Il reste ${diff} places.\n Early: ${data[2]} / ${data[3]} : reste ${diffEA} places",
     "attachments": [
         {
             "text":"${getFunMessage(diff)}"
