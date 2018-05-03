@@ -65,6 +65,12 @@
       "url": "http://www.groupe-sii.com",
       "logoUrl": "../images/logos/sii.png",
       "width": 220
+    },
+    {
+      "name": "RCA",
+      "url": "https://rca.fr",
+      "logoUrl": "../images/logos/rca.png",
+      "width": 220
     }
   ]
 }, {
