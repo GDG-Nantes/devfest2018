@@ -17,7 +17,7 @@
 <link rel="import" href="../behaviors/cascaded-behavior.html">
 
 
-<dom-module id="pratique-page">
+<dom-module id="attending-page">
 
   <template>
 
@@ -101,10 +101,10 @@
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="location"></iron-icon>
-          <h4 class="details-title">[[localize(app.data.location.mapPratique.title)]]</h4>
+          <h4 class="details-title">[[localize(app.data.location.mapAttending.title)]]</h4>
         </div>
 
-        <map-element app="{{app}}" location="{{app.data.location.mapPratique}}" cascaded></map-element>
+        <map-element app="{{app}}" location="{{app.data.location.mapAttending}}" cascaded></map-element>
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="schedule"></iron-icon>
@@ -175,7 +175,7 @@
 
       Polymer({
 
-        is: 'pratique-page',
+        is: 'attending-page',
 
         behaviors: [
           HOVERBOARD.PageBehavior,
