@@ -63,8 +63,8 @@
       "inMenu": true
     },
     {
-      "route": "pratique",
-      "permalink": "/pratique/",
+      "route": "attending",
+      "permalink": "/attending/",
       "inMenu": true
     },
     {
@@ -177,8 +177,8 @@
       "latitude": 46.9666849,
       "longitude": -1.4848352
     },
-    "mapPratique": {
-      "title": "location-pratique-title",
+    "mapAttending": {
+      "title": "location-attending-title",
       "name": "Cité des Congrès, Nantes",
       "address": "5 rue de Valmy",
       "city": "location-city",
@@ -225,7 +225,7 @@
   },
   "indoorMapTitle": "indoor-map-title",
   "transport": {
-      "title": "transport-pratique-title",
+      "title": "transport-attending-title",
       "elements": [
         {
           "icon": "train",
@@ -315,7 +315,7 @@
         "authorCitation": "APOLLO 13 RESCUE MISSION"
       }
     },
-    "pratique": {
+    "attending": {
       "headerSettings": {
         "backgroundColor": "#44504e",
         "backgroundImage": "/images/backgrounds/space_5.jpg",
