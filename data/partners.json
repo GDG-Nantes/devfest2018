@@ -29,6 +29,12 @@
       "url": "http://www.apside.com",
       "logoUrl": "../images/logos/apside.png",
       "width": 250
+    },
+    {
+      "name": "Zenika",
+      "url": "https://www.zenika.com/",
+      "logoUrl": "../images/logos/zenika.png",
+      "width": 250
     }
   ]
 }, {
@@ -70,6 +76,18 @@
       "name": "RCA",
       "url": "https://rca.fr",
       "logoUrl": "../images/logos/rca.png",
+      "width": 220
+    },
+    {
+      "name": "Néo-Soft",
+      "url": "http://www.neo-soft.fr",
+      "logoUrl": "../images/logos/neosoft.png",
+      "width": 220
+    },
+    {
+      "name": "PALO IT",
+      "url": "http://palo-it.com/",
+      "logoUrl": "../images/logos/palo-it.png",
       "width": 220
     }
   ]
