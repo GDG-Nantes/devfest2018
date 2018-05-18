@@ -32,8 +32,14 @@
     },
     {
       "name": "Zenika",
-      "url": "https://www.zenika.com/",
+      "url": "https://www.zenika.com",
       "logoUrl": "../images/logos/zenika.png",
+      "width": 250
+    },
+    {
+      "name": "Conserto",
+      "url": "https://www.conserto.pro",
+      "logoUrl": "../images/logos/conserto.png",
       "width": 250
     }
   ]
@@ -86,8 +92,14 @@
     },
     {
       "name": "PALO IT",
-      "url": "http://palo-it.com/",
+      "url": "http://palo-it.com",
       "logoUrl": "../images/logos/palo-it.png",
+      "width": 220
+    },
+    {
+      "name": "Bodet Software",
+      "url": "https://www.bodet-software.com/fr",
+      "logoUrl": "../images/logos/bodet.png",
       "width": 220
     }
   ]
