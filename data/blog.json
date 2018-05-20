@@ -5,7 +5,7 @@
     "posted": "2018-04-02",
     "primaryColor": "#44504e",
     "secondaryColor": "#5A7785",
-    "image": "/images/posts/announce.jpg",
+    "image": "https://gdgnantes.imgix.net/posts/announce.jpg?auto=format",
     "brief": "Le GDG Nantes est fier de vous annoncer la 7ème édition du DevFest Nantes! L'événement aura lieu les 18 et 19 Octobre 2018 à la Cité des Congrès de Nantes."
   }
 ]

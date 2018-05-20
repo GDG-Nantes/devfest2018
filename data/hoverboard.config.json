@@ -1,5 +1,5 @@
 {
-  "url": "http://devfest2018-site.firebaseapp.com/",
+  "url": "https://devfest.gdgnantes.com/",
   "startDate": "2018-10-18T08:30:00+01:00",
   "endDate": "2018-10-19T18:30:00+01:00",
   "analytics": {
@@ -218,9 +218,9 @@
       }
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "https://gdgnantes.imgix.net/backgrounds/location_1.jpg?auto=format",
+      "https://gdgnantes.imgix.net/backgrounds/location_2.jpg?auto=format",
+      "https://gdgnantes.imgix.net/backgrounds/location_3.jpg?auto=format"
     ]
   },
   "indoorMapTitle": "indoor-map-title",
@@ -252,10 +252,10 @@
   "gallery": {
     "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157688271908524",
     "photos": {
-      "big": "/images/backgrounds/2017_1.jpg",
+      "big": "https://gdgnantes.imgix.net/backgrounds/2017_1.jpg?auto=format",
       "small": [
-        "/images/backgrounds/2017_2.jpg",
-        "/images/backgrounds/2017_3.jpg"
+        "https://gdgnantes.imgix.net/backgrounds/2017_2.jpg?auto=format",
+        "https://gdgnantes.imgix.net/backgrounds/2017_3.jpg?auto=format"
       ]
     }
   },
@@ -263,7 +263,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#C15017",
-        "backgroundImage": "/images/backgrounds/space_1.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_1.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "video": {
@@ -278,7 +278,7 @@
     "blog": {
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_2.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_2.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"THAT'S ONE STEP FOR MAN, ONE GIANT LEAP FOR MANKIND\"",
@@ -288,7 +288,7 @@
     "speaker": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
-        "backgroundImage": "/images/backgrounds/space_5.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_5.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"HUSTON, TRANQUILITY BASE HERE THE EAGLE HAS LANDED\"",
@@ -298,7 +298,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_3.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_3.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"THE STARS DON'T LOOK BIGGER, BUT THEY LOOK BRIGHTER\"",
@@ -308,7 +308,7 @@
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_4.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_4.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"FAILURE IS NOT AN OPTION\"",
@@ -318,7 +318,7 @@
     "attending": {
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_5.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_5.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"HUSTON, TRANQUILITY BASE HERE THE EAGLE HAS LANDED\"",
@@ -330,7 +330,7 @@
       "text": "team-page-text",
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_6.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_6.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"WE ARE LIMITED ONLY BY OUR IMAGINATION AND OUR WILL TO ACT\"",
@@ -340,7 +340,7 @@
     "faq": {
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_7.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_7.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"OK HUSTON, WE'VE HAD A PROBLEM HERE\"",
@@ -351,7 +351,7 @@
       "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#44504e",
-        "backgroundImage": "/images/backgrounds/space_8.jpg",
+        "backgroundImage": "https://gdgnantes.imgix.net/backgrounds/space_8.jpg?auto=format",
         "fontColor": "#faf6dd",
         "tabBarColor": "#faf6dd",
         "citation": "\"WE CAME IN PEACE FOR ALL MANKIND\"",

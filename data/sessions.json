@@ -3,14 +3,14 @@
     "id": 0,
     "title": "Ouverture des portes / Gates open",
     "titleMobile": "Gates open",
-    "image": "/images/backgrounds/opening.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/opening.jpg?auto=format",
     "type": "break"
   },
   "1": {
     "id": 1,
     "title": "Keynote d'ouverture / Opening keynote",
     "titleMobile": "Opening keynote",
-    "image": "/images/backgrounds/keynote.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/keynote.jpg?auto=format",
     "description": "",
     "type": "keynote",
     "track": {
@@ -30,21 +30,21 @@
     "title": "Déjeuner / Lunch",
     "titleMobile": "Lunch",
     "description": "Foooooood !!!",
-    "image": "/images/backgrounds/lunch.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/lunch.jpg?auto=format",
     "type": "break"
   },
   "3": {
     "id": 3,
     "title": "After Party",
     "description": "",
-    "image": "/images/backgrounds/party.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/party.jpg?auto=format",
     "type": "break"
   },
   "4": {
     "id": 4,
     "title": "Ouverture des portes / Gates open",
     "titleMobile": "Gates open",
-    "image": "/images/backgrounds/opening.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/opening.jpg?auto=format",
     "type": "break"
   },
   "5": {
@@ -52,7 +52,7 @@
     "title": "Déjeuner / Lunch",
     "titleMobile": "Lunch",
     "description": "Foooooood !!!",
-    "image": "/images/backgrounds/lunch.jpg",
+    "image": "https://gdgnantes.imgix.net/backgrounds/lunch.jpg?auto=format",
     "type": "break"
   }
 }

@@ -3,43 +3,43 @@
   "logos": [{
       "name": "Google",
       "url": "https://www.google.com.ua/intl/en/about",
-      "logoUrl": "../images/logos/google.svg",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/google.svg?auto=format",
       "width": 250
     },
     {
       "name": "SFEIR",
       "url": "https://www.sfeir.com",
-      "logoUrl": "../images/logos/sfeir.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/sfeir.png?auto=format",
       "width": 250
     },
     {
       "name": "Creative",
       "url": "http://www.groupe-creative.fr",
-      "logoUrl": "../images/logos/creative.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/creative.png?auto=format",
       "width": 250
     },
     {
       "name": "Groupe onepoint",
       "url": "http://www.groupeonepoint.com",
-      "logoUrl": "../images/logos/onepoint.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/onepoint.png?auto=format",
       "width": 250
     },
     {
       "name": "Apside",
       "url": "http://www.apside.com",
-      "logoUrl": "../images/logos/apside.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/apside.png?auto=format",
       "width": 250
     },
     {
       "name": "Zenika",
       "url": "https://www.zenika.com",
-      "logoUrl": "../images/logos/zenika.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/zenika.png?auto=format",
       "width": 250
     },
     {
       "name": "Conserto",
       "url": "https://www.conserto.pro",
-      "logoUrl": "../images/logos/conserto.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/conserto.png?auto=format",
       "width": 250
     }
   ]
@@ -51,55 +51,55 @@
   "logos": [{
       "name": "FaberNovel",
       "url": "https://www.fabernovel.com",
-      "logoUrl": "../images/logos/fabernovel.svg",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/fabernovel.svg?auto=format",
       "width": 220
     },
     {
       "name": "VIF",
       "url": "http://www.vif.fr",
-      "logoUrl": "../images/logos/vif.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/vif.png?auto=format",
       "width": 220
     },
     {
       "name": "Cat-Amania",
       "url": "https://www.cat-amania.com",
-      "logoUrl": "../images/logos/catamania.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/catamania.png?auto=format",
       "width": 220
     },
     {
       "name": "SERLI",
       "url": "http://www.serli.com",
-      "logoUrl": "../images/logos/serli.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/serli.png?auto=format",
       "width": 220
     },
     {
       "name": "SII",
       "url": "http://www.groupe-sii.com",
-      "logoUrl": "../images/logos/sii.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/sii.png?auto=format",
       "width": 220
     },
     {
       "name": "RCA",
       "url": "https://rca.fr",
-      "logoUrl": "../images/logos/rca.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/rca.png?auto=format",
       "width": 220
     },
     {
       "name": "Néo-Soft",
       "url": "http://www.neo-soft.fr",
-      "logoUrl": "../images/logos/neosoft.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/neosoft.png?auto=format",
       "width": 220
     },
     {
       "name": "PALO IT",
       "url": "http://palo-it.com",
-      "logoUrl": "../images/logos/palo-it.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/palo-it.png?auto=format",
       "width": 220
     },
     {
       "name": "Bodet Software",
       "url": "https://www.bodet-software.com/fr",
-      "logoUrl": "../images/logos/bodet.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/bodet.png?auto=format",
       "width": 220
     }
   ]
@@ -108,37 +108,37 @@
   "logos": [{
       "name": "Luiza Laffitte",
       "url": "http://www.luizalaffitte.com",
-      "logoUrl": "../images/logos/luiza_laffitte.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/luiza_laffitte.png?auto=format",
       "width": 180
     },
     {
       "name": "Mstream",
       "url": "http://www.mstream.fr",
-      "logoUrl": "../images/logos/mstream.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/mstream.png?auto=format",
       "width": 180
     },
     {
       "name": "Remy Chautard",
       "url": "http://remy-chautard.com",
-      "logoUrl": "../images/logos/remy_chautard.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/remy_chautard.png?auto=format",
       "width": 180
     },
     {
       "name": "Choose Your Boss",
       "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2018",
-      "logoUrl": "../images/logos/cyb.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/cyb.png?auto=format",
       "width": 180
     },
     {
       "name": "NantesTech",
       "url": "http://www.nantestech.fr",
-      "logoUrl": "../images/logos/nantestech.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/nantestech.png?auto=format",
       "width": 180
     },
     {
       "name": "Nantes Métropole",
       "url": "http://www.nantesmetropole.fr",
-      "logoUrl": "../images/logos/nantesmetropole.png",
+      "logoUrl": "https://gdgnantes.imgix.net/logos/nantesmetropole.png?auto=format",
       "width": 180
     }
   ]
