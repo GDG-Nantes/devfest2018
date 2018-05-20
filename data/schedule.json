@@ -1,6 +1,6 @@
 [{
-    "date": "2017-10-19",
-    "dateReadable": "October 19",
+    "date": "2018-10-18",
+    "dateReadable": "October 18",
     "tracks": [{
         "title": "Titan"
       },
@@ -40,45 +40,19 @@
         "endTime": "10:50",
         "sessions": [
           [
-            1859
-          ],
-          [
-            2074
-          ],
-          [
-            2107
-          ],
-          [
-            1655
+            1910
           ]
         ]
       },
       {
         "startTime": "10:00",
         "endTime": "12:00",
-        "sessions": [
-          [
-            1970
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "11:10",
         "endTime": "12:00",
-        "sessions": [
-          [
-            1595
-          ],
-          [
-            1910
-          ],
-          [
-            2034
-          ],
-          [
-            1824
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "12:00",
@@ -92,110 +66,37 @@
       {
         "startTime": "14:00",
         "endTime": "14:50",
-        "sessions": [
-          [
-            1926
-          ],
-          [
-            2048
-          ],
-          [
-            1737
-          ],
-          [
-            2088
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "14:00",
         "endTime": "16:00",
-        "sessions": [
-          [
-            1700
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "15:10",
         "endTime": "16:00",
-        "sessions": [
-          [
-            1892
-          ],
-          [
-            1905
-          ],
-          [
-            1871
-          ],
-          [
-            1962
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "16:20",
         "endTime": "18:20",
-        "sessions": [
-          [
-            1852
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "16:20",
         "endTime": "17:10",
-        "sessions": [
-          [
-            1957
-          ],
-          [
-            1920
-          ],
-          [
-            1955
-          ],
-          [
-            2080
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "17:20",
         "endTime": "17:40",
-        "sessions": [
-          [
-            2094
-          ],
-          [
-            2017
-          ],
-          [
-            1857
-          ],
-          [
-            2061
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "17:50",
         "endTime": "18:10",
-        "sessions": [
-          [
-            1709
-          ],
-          [
-            1636
-          ],
-          [
-            1596
-          ],
-          [
-            1689
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "18:30",
@@ -209,8 +110,8 @@
     ]
   },
   {
-    "date": "2017-10-20",
-    "dateReadable": "October 20",
+    "date": "2017-10-19",
+    "dateReadable": "October 19",
     "tracks": [{
         "title": "Titan"
       },
@@ -239,65 +140,22 @@
       {
         "startTime": "09:00",
         "endTime": "09:50",
-        "sessions": [
-          [
-            2099
-          ],
-          [
-            2038
-          ],
-          [
-            1641
-          ],
-          [
-            1901
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "09:00",
         "endTime": "11:00",
-        "sessions": [
-          [
-            1733
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "10:10",
         "endTime": "11:00",
-        "sessions": [
-          [
-            1864
-          ],
-          [
-            1837
-          ],
-          [
-            2051
-          ],
-          [
-            1833
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "11:20",
         "endTime": "12:10",
-        "sessions": [
-          [
-            2028
-          ],
-          [
-            1847
-          ],
-          [
-            1846
-          ],
-          [
-            1629
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "12:10",
@@ -311,101 +169,37 @@
       {
         "startTime": "13:00",
         "endTime": "15:00",
-        "sessions": [
-          [
-            2056
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "14:00",
         "endTime": "14:50",
-        "sessions": [
-          [
-            1814
-          ],
-          [
-            1815
-          ],
-          [
-            2040
-          ],
-          [
-            2064
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "15:10",
         "endTime": "17:10",
-        "sessions": [
-          [
-            1541
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "15:10",
         "endTime": "16:00",
-        "sessions": [
-          [
-            1913
-          ],
-          [
-            1834
-          ],
-          [
-            2021
-          ],
-          [
-            1818
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "16:20",
         "endTime": "16:40",
-        "sessions": [
-          [
-            2043
-          ],
-          [
-            1763
-          ],
-          [
-            1958
-          ],
-          [
-            1999
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "16:50",
         "endTime": "17:10",
-        "sessions": [
-          [
-            1826
-          ],
-          [
-            1874
-          ],
-          [
-            1540
-          ],
-          [
-            1902
-          ]
-        ]
+        "sessions": []
       },
       {
         "startTime": "17:30",
         "endTime": "18:20",
-        "sessions": [
-          [
-            1937
-          ]
-        ]
+        "sessions": []
       }
     ]
   }
