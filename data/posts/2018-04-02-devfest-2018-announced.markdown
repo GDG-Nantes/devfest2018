@@ -22,5 +22,5 @@ Vous trouverez toutes les informations concernant l'événement sur le [Site Web
 Et n'oubliez pas notre slogan 2018 : **Code to infinity & beyond !**
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <img src="https://drive.google.com/uc?id=1OA8uj_OLtLRa3L2sfVlQ-oGhKjjGibgC" width="768px" />
+  <img src="https://drive.google.com/uc?id=1WpOhRhAk2NNrw8Efo8Z2CkIrfVfhU4RJ" width="768px" />
 </div>
