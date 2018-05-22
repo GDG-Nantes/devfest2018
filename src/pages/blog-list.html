@@ -119,7 +119,25 @@
 
         properties: {
           posts: {
-            type: Array
+            type: Array,
+            observer: '_checkRoute'
+          },
+          route: {
+            type: Object,
+            observer: '_checkRoute'
+          },
+        },
+
+        _checkRoute: function() {
+          if (! this.updating) {
+            this.updating = true;
+            if (this.route.prefix !== '/blog') {
+              this.postsBefore = this.posts;
+              this.posts = [];
+            } else {
+              this.posts = this.postsBefore || this.posts;
+            }
+            this.updating = false;
           }
         }
 
