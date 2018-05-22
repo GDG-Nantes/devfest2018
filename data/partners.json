@@ -41,6 +41,12 @@
       "url": "https://www.conserto.pro",
       "logoUrl": "../images/logos/conserto.png",
       "width": 250
+    },
+    {
+      "name": "Epitech",
+      "url": "http://www.epitech.eu/",
+      "logoUrl": "../images/logos/epitech.png",
+      "width": 250
     }
   ]
 }, {
@@ -100,6 +106,12 @@
       "name": "Bodet Software",
       "url": "https://www.bodet-software.com/fr",
       "logoUrl": "../images/logos/bodet.png",
+      "width": 220
+    },
+    {
+      "name": "DTA Ingénierie",
+      "url": "http://www.dta-ingenierie.fr/",
+      "logoUrl": "../images/logos/dta.png",
       "width": 220
     }
   ]
