@@ -246,7 +246,12 @@
           "icon": "flight",
           "title": "flight-title",
           "text": "flight-text"
-        }
+        },
+				{
+					"icon": "rocket",
+					"title": "rocket-title",
+					"text": "rocket-text"
+				}
       ]
     },
   "gallery": {

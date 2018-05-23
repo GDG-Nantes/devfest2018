@@ -64,6 +64,8 @@
   "car-text": "La Cité des Congrès étant en plein centre ville, nous préconisons aux automobilistes de se garer sur un parking relais tram ou un parking payant.<br>La Cité des Congrès propose un <a href='http://www.parkings-nantes.fr/fr/stationner' target='_NEW'>parking payant</a> de 450 places.<br>Liste des parkings relais : <a href='https://plan-tan.fr/?lat=47.215837000000015&lng=-1.550499000000003&zoom=12' target='_NEW'>carte interactive</a> ou sur le site de la <a href='https://www.tan.fr/fr/menu/se-deplacer/tan/plans/' target='_NEW'>Tan</a>.",
   "flight-title": "En avion",
   "flight-text": "L'aéroport est situé à l'extérieur de la ville. Pour accéder à la Cité des Congrès, vous pouvez utiliser les <a href='http://www.nantes.aeroport.fr/acces/navettes' target='_NEW'>navettes</a> (20 min), les taxis ou louer une voiture.",
+	"rocket-title": "En fusée",
+	"rocket-text": "Un port spatial va être disponible sur le toit de la Cité des Congrès pour atterrir. Nous prendrons soin de votre fusée durant le festival.",
   "hotel-title": "Comment se loger ?",
   "hotel-text": "L'équipe du DevFest Nantes a négocié des prix auprès de l'hôtel <a href='http://www.residhome.com/' target='_NEW'><b>Residhome</b></a> pour les participants de l'évènement.",
   "indoor-map-title": "Plan des salles",
