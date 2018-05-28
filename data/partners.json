@@ -44,7 +44,7 @@
     },
     {
       "name": "Epitech",
-      "url": "http://www.epitech.eu/",
+      "url": "http://www.epitech.eu",
       "logoUrl": "../images/logos/epitech.png",
       "width": 250
     }
@@ -110,8 +110,14 @@
     },
     {
       "name": "DTA Ingénierie",
-      "url": "http://www.dta-ingenierie.fr/",
+      "url": "http://www.dta-ingenierie.fr",
       "logoUrl": "../images/logos/dta.png",
+      "width": 220
+    },
+    {
+      "name": "ACII",
+      "url": "https://www.acii.fr",
+      "logoUrl": "../images/logos/acii.jpg",
       "width": 220
     }
   ]
