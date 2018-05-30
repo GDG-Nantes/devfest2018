@@ -1,163 +1,183 @@
-[{
-  "title": "platinium-partner",
-  "logos": [{
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about",
-      "logoUrl": "../images/logos/google.svg",
-      "width": 250
-    },
-    {
-      "name": "SFEIR",
-      "url": "https://www.sfeir.com",
-      "logoUrl": "../images/logos/sfeir.png",
-      "width": 250
-    },
-    {
-      "name": "Creative",
-      "url": "http://www.groupe-creative.fr",
-      "logoUrl": "../images/logos/creative.png",
-      "width": 250
-    },
-    {
-      "name": "Groupe onepoint",
-      "url": "http://www.groupeonepoint.com",
-      "logoUrl": "../images/logos/onepoint.png",
-      "width": 250
-    },
-    {
-      "name": "Apside",
-      "url": "http://www.apside.com",
-      "logoUrl": "../images/logos/apside.png",
-      "width": 250
-    },
-    {
-      "name": "Zenika",
-      "url": "https://www.zenika.com",
-      "logoUrl": "../images/logos/zenika.png",
-      "width": 250
-    },
-    {
-      "name": "Conserto",
-      "url": "https://www.conserto.pro",
-      "logoUrl": "../images/logos/conserto.png",
-      "width": 250
-    },
-    {
-      "name": "Epitech",
-      "url": "http://www.epitech.eu",
-      "logoUrl": "../images/logos/epitech.png",
-      "width": 250
-    }
-  ]
-}, {
-  "title": "after-partner",
-  "logos": []
-}, {
-  "title": "gold-partner",
-  "logos": [{
-      "name": "FaberNovel",
-      "url": "https://www.fabernovel.com",
-      "logoUrl": "../images/logos/fabernovel.svg",
-      "width": 220
-    },
-    {
-      "name": "VIF",
-      "url": "http://www.vif.fr",
-      "logoUrl": "../images/logos/vif.png",
-      "width": 220
-    },
-    {
-      "name": "Cat-Amania",
-      "url": "https://www.cat-amania.com",
-      "logoUrl": "../images/logos/catamania.png",
-      "width": 220
-    },
-    {
-      "name": "SERLI",
-      "url": "http://www.serli.com",
-      "logoUrl": "../images/logos/serli.png",
-      "width": 220
-    },
-    {
-      "name": "SII",
-      "url": "http://www.groupe-sii.com",
-      "logoUrl": "../images/logos/sii.png",
-      "width": 220
-    },
-    {
-      "name": "RCA",
-      "url": "https://rca.fr",
-      "logoUrl": "../images/logos/rca.png",
-      "width": 220
-    },
-    {
-      "name": "Néo-Soft",
-      "url": "http://www.neo-soft.fr",
-      "logoUrl": "../images/logos/neosoft.png",
-      "width": 220
-    },
-    {
-      "name": "PALO IT",
-      "url": "http://palo-it.com",
-      "logoUrl": "../images/logos/palo-it.png",
-      "width": 220
-    },
-    {
-      "name": "Bodet Software",
-      "url": "https://www.bodet-software.com/fr",
-      "logoUrl": "../images/logos/bodet.png",
-      "width": 220
-    },
-    {
-      "name": "DTA Ingénierie",
-      "url": "http://www.dta-ingenierie.fr",
-      "logoUrl": "../images/logos/dta.png",
-      "width": 220
-    },
-    {
-      "name": "ACII",
-      "url": "https://www.acii.fr",
-      "logoUrl": "../images/logos/acii.jpg",
-      "width": 220
-    }
-  ]
-}, {
-  "title": "other-partner",
-  "logos": [{
-      "name": "Luiza Laffitte",
-      "url": "http://www.luizalaffitte.com",
-      "logoUrl": "../images/logos/luiza_laffitte.png",
-      "width": 180
-    },
-    {
-      "name": "Mstream",
-      "url": "http://www.mstream.fr",
-      "logoUrl": "../images/logos/mstream.png",
-      "width": 180
-    },
-    {
-      "name": "Remy Chautard",
-      "url": "http://remy-chautard.com",
-      "logoUrl": "../images/logos/remy_chautard.png",
-      "width": 180
-    },
-    {
-      "name": "Choose Your Boss",
-      "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2018",
-      "logoUrl": "../images/logos/cyb.png",
-      "width": 180
-    },
-    {
-      "name": "NantesTech",
-      "url": "http://www.nantestech.fr",
-      "logoUrl": "../images/logos/nantestech.png",
-      "width": 180
-    },
-    {
-      "name": "Nantes Métropole",
-      "url": "http://www.nantesmetropole.fr",
-      "logoUrl": "../images/logos/nantesmetropole.png",
-      "width": 180
-    }
-  ]
-}]
+[
+  {
+    "title": "platinium-partner",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 250
+      },
+      {
+        "name": "SFEIR",
+        "url": "https://www.sfeir.com",
+        "logoUrl": "../images/logos/sfeir.png",
+        "width": 250
+      },
+      {
+        "name": "Creative",
+        "url": "http://www.groupe-creative.fr",
+        "logoUrl": "../images/logos/creative.png",
+        "width": 250
+      },
+      {
+        "name": "Groupe onepoint",
+        "url": "http://www.groupeonepoint.com",
+        "logoUrl": "../images/logos/onepoint.png",
+        "width": 250
+      },
+      {
+        "name": "Apside",
+        "url": "http://www.apside.com",
+        "logoUrl": "../images/logos/apside.png",
+        "width": 250
+      },
+      {
+        "name": "Zenika",
+        "url": "https://www.zenika.com",
+        "logoUrl": "../images/logos/zenika.png",
+        "width": 250
+      },
+      {
+        "name": "Conserto",
+        "url": "https://www.conserto.pro",
+        "logoUrl": "../images/logos/conserto.png",
+        "width": 250
+      },
+      {
+        "name": "Epitech",
+        "url": "http://www.epitech.eu",
+        "logoUrl": "../images/logos/epitech.png",
+        "width": 250
+      }
+    ]
+  },
+  {
+    "title": "after-partner",
+    "logos": []
+  },
+  {
+    "title": "gold-partner",
+    "logos": [
+      {
+        "name": "FaberNovel",
+        "url": "https://www.fabernovel.com",
+        "logoUrl": "../images/logos/fabernovel.svg",
+        "width": 220
+      },
+      {
+        "name": "VIF",
+        "url": "http://www.vif.fr",
+        "logoUrl": "../images/logos/vif.png",
+        "width": 220
+      },
+      {
+        "name": "Cat-Amania",
+        "url": "https://www.cat-amania.com",
+        "logoUrl": "../images/logos/catamania.png",
+        "width": 220
+      },
+      {
+        "name": "SERLI",
+        "url": "http://www.serli.com",
+        "logoUrl": "../images/logos/serli.png",
+        "width": 220
+      },
+      {
+        "name": "SII",
+        "url": "http://www.groupe-sii.com",
+        "logoUrl": "../images/logos/sii.png",
+        "width": 220
+      },
+      {
+        "name": "RCA",
+        "url": "https://rca.fr",
+        "logoUrl": "../images/logos/rca.png",
+        "width": 220
+      },
+      {
+        "name": "Néo-Soft",
+        "url": "http://www.neo-soft.fr",
+        "logoUrl": "../images/logos/neosoft.png",
+        "width": 220
+      },
+      {
+        "name": "PALO IT",
+        "url": "http://palo-it.com",
+        "logoUrl": "../images/logos/palo-it.png",
+        "width": 220
+      },
+      {
+        "name": "Bodet Software",
+        "url": "https://www.bodet-software.com/fr",
+        "logoUrl": "../images/logos/bodet.png",
+        "width": 220
+      },
+      {
+        "name": "DTA Ingénierie",
+        "url": "http://www.dta-ingenierie.fr",
+        "logoUrl": "../images/logos/dta.png",
+        "width": 220
+      },
+      {
+        "name": "ACII",
+        "url": "https://www.acii.fr",
+        "logoUrl": "../images/logos/acii.jpg",
+        "width": 220
+      },
+      {
+        "name": "Valeuriad",
+        "url": "http://www.valeuriad.fr",
+        "logoUrl": "../images/logos/valeuriad.png",
+        "width": 220
+      },
+      {
+        "name": "Maisons du monde",
+        "url": "https://www.maisonsdumonde.com/",
+        "logoUrl": "../images/logos/maisons_du_monde.png",
+        "width": 220
+      }
+    ]
+  },
+  {
+    "title": "other-partner",
+    "logos": [
+      {
+        "name": "Luiza Laffitte",
+        "url": "http://www.luizalaffitte.com",
+        "logoUrl": "../images/logos/luiza_laffitte.png",
+        "width": 180
+      },
+      {
+        "name": "Mstream",
+        "url": "http://www.mstream.fr",
+        "logoUrl": "../images/logos/mstream.png",
+        "width": 180
+      },
+      {
+        "name": "Remy Chautard",
+        "url": "http://remy-chautard.com",
+        "logoUrl": "../images/logos/remy_chautard.png",
+        "width": 180
+      },
+      {
+        "name": "Choose Your Boss",
+        "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2018",
+        "logoUrl": "../images/logos/cyb.png",
+        "width": 180
+      },
+      {
+        "name": "NantesTech",
+        "url": "http://www.nantestech.fr",
+        "logoUrl": "../images/logos/nantestech.png",
+        "width": 180
+      },
+      {
+        "name": "Nantes Métropole",
+        "url": "http://www.nantesmetropole.fr",
+        "logoUrl": "../images/logos/nantesmetropole.png",
+        "width": 180
+      }
+    ]
+  }
+]
