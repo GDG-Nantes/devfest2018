@@ -136,6 +136,12 @@
         "url": "https://www.maisonsdumonde.com/",
         "logoUrl": "../images/logos/maisons_du_monde.png",
         "width": 220
+      },
+      {
+        "name": "U GIE-IRIS",
+        "url": "hhttp://ugieiris.fr/",
+        "logoUrl": "../images/logos/u-gie-iris.jpg",
+        "width": 220
       }
     ]
   },
