@@ -49,6 +49,12 @@
         "url": "http://www.epitech.eu",
         "logoUrl": "../images/logos/epitech.png",
         "width": 250
+      },
+      {
+        "name": "Talend",
+        "url": "http://fr.talend.com",
+        "logoUrl": "../images/logos/talend.png",
+        "width": 250
       }
     ]
   },
@@ -141,6 +147,24 @@
         "name": "U GIE-IRIS",
         "url": "http://ugieiris.fr",
         "logoUrl": "../images/logos/u-gie-iris.jpg",
+        "width": 220
+      },
+      {
+        "name": "LaFourchette",
+        "url": "https://www.lafourchette.com",
+        "logoUrl": "../images/logos/lafourchette.png",
+        "width": 220
+      },
+      {
+        "name": "Accenture",
+        "url": "https://www.accenture.com/fr-fr/new-applied-now",
+        "logoUrl": "../images/logos/accenture.svg",
+        "width": 220
+      },
+      {
+        "name": "Informatique Banque Populaire",
+        "url": "https://informatique.banquepopulaire.fr",
+        "logoUrl": "../images/logos/ibp.jpg",
         "width": 220
       }
     ]
