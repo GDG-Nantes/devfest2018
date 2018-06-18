@@ -166,6 +166,12 @@
         "url": "https://informatique.banquepopulaire.fr",
         "logoUrl": "../images/logos/ibp.jpg",
         "width": 220
+      },
+      {
+        "name": "ASI",
+        "url": "https://www.asi.fr",
+        "logoUrl": "../images/logos/asi.png",
+        "width": 220
       }
     ]
   },
