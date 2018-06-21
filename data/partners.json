@@ -55,6 +55,12 @@
         "url": "http://fr.talend.com",
         "logoUrl": "../images/logos/talend.png",
         "width": 250
+      },
+      {
+        "name": "Capgemini",
+        "url": "https://www.fr.capgemini.com/",
+        "logoUrl": "../images/logos/capgemini.png",
+        "width": 250
       }
     ]
   },
@@ -171,6 +177,18 @@
         "name": "ASI",
         "url": "https://www.asi.fr",
         "logoUrl": "../images/logos/asi.png",
+        "width": 220
+      },
+      {
+        "name": "Sogeti",
+        "url": "https://www.fr.sogeti.com",
+        "logoUrl": "../images/logos/sogeti.png",
+        "width": 220
+      },
+      {
+        "name": "AUSY",
+        "url": "https://www.ausy.fr/fr",
+        "logoUrl": "../images/logos/ausy.png",
         "width": 220
       }
     ]
