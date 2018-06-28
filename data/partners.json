@@ -190,6 +190,12 @@
         "url": "https://www.ausy.fr/fr",
         "logoUrl": "../images/logos/ausy.png",
         "width": 220
+      },
+      {
+        "name": "Bouygues Telecom",
+        "url": "https://www.jobs.bouyguestelecom.fr",
+        "logoUrl": "../images/logos/bouyguestelecom.png",
+        "width": 220
       }
     ]
   },
