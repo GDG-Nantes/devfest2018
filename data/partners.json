@@ -58,8 +58,14 @@
       },
       {
         "name": "Capgemini",
-        "url": "https://www.fr.capgemini.com/",
+        "url": "https://www.fr.capgemini.com",
         "logoUrl": "../images/logos/capgemini.png",
+        "width": 250
+      },
+      {
+        "name": "vpTech by vente-privee",
+        "url": "https://careers.vente-privee.com/en/vptech",
+        "logoUrl": "../images/logos/vente-privee.png",
         "width": 250
       }
     ]
