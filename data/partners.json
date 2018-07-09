@@ -205,10 +205,22 @@
       },
       {
         "name": "Aspose",
-        "url": "https://www.aspose.com/",
+        "url": "https://www.aspose.com",
         "logoUrl": "../images/logos/aspose.png",
         "width": 220
-      }
+      },
+      {
+        "name": "Editions ENI",
+        "url": "http://www.editions-eni.fr",
+        "logoUrl": "../images/logos/editions-eni.png",
+        "width": 220
+      },
+      {
+        "name": "MAIF",
+        "url": "https://maif.github.io",
+        "logoUrl": "../images/logos/maif.png",
+        "width": 220
+      }      
     ]
   },
   {
