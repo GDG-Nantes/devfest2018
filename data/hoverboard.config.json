@@ -205,15 +205,15 @@
       }
     },
     "mapDinnerSpeaker": {
-      "name": "Vertigo",
-      "address": "3 Mail du Front populaire",
+      "name": "Levrette Café",
+      "address": "30 quai Fernand Crouan",
       "city": "location-city",
-      "latitude": 47.2067001,
-      "longitude": -1.5627165,
+      "latitude": 47.206532,
+      "longitude": -1.568648,
       "zoom": 15,
       "pointer": {
-        "latitude": 47.2067001,
-        "longitude": -1.5627165,
+        "latitude": 47.206532,
+        "longitude": -1.568648,
         "zoom": 5
       }
     },
