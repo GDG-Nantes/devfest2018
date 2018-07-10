@@ -1,23 +1,27 @@
 {
     "101": {
       "id": 101,
-      "name": "Name",
+      "name": "Charlie Gerard",
       "featured": true,
-      "company": "Company",
-      "companyLogo": "/images/logos/google.svg",
-      "country": "USA",
-      "photoUrl": "/images/speakers/default.jpg",
-      "shortBio": "Short Bio",
-      "bio": "Bio",
-      "tags": ["Cloud"],
-      "badges": [{
-        "name": "Google Advocate",
-        "description": "Google Developer Advocate"
-      }],
-      "socials": [{
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/xxxxxx"
-      }]
+      "company": "ThoughtWorks",
+      "companyLogo": "/images/logos/thoughtworks.png",
+      "country": "Australia",
+      "photoUrl": "/images/speakers/charlie-gerard.png",
+      "shortBio": "Hey I’m Charlie, currently Software Developer @ ThoughtWorks in Sydney. I am passionate about Creative Technologies, Creative Coding, Hardware and IoT.",
+      "bio": "Hey I’m Charlie, currently Software Developer @ ThoughtWorks in Sydney. I am passionate about Creative Technologies, Creative Coding, Hardware and IoT. When I’m not coding for a client’s project, I am mentoring at General Assembly, building projects using Arduino and other devices, writing tutorials to share what I learn or reading news. You can also check my [portfolio](http://charliegerard.github.io) if you’d like to know more about me :).",
+      "tags": ["IoT"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/devdevcharlie"
+        },
+        {
+          "icon": "github",
+          "name": "Github",
+          "link": "https://github.com/charliegerard"
+        }
+      ]
     }
 }
