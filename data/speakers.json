@@ -23,5 +23,30 @@
           "link": "https://github.com/charliegerard"
         }
       ]
+    },
+    "102": {
+      "id": 102,
+      "name": "Florina Muntenescu",
+      "featured": true,
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "England",
+      "photoUrl": "/images/speakers/florina-muntenescu.jpg",
+      "shortBio": "Florina works at Google as an Android Developer Advocate. She has been writing code for more than 8 years, mostly for Android.",
+      "bio": "Florina works at Google as an Android Developer Advocate. She has been writing code for more than 8 years, mostly for Android. Florina keeps a strong focus on clean code and architecture. Previous work covered news at upday, payment solutions at payleven and navigation services at Garmin.",
+      "tags": ["Android"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/fmuntenescu"
+        },
+        {
+          "icon": "github",
+          "name": "Github",
+          "link": "https://github.com/florina-muntenescu"
+        }
+      ]
     }
 }
