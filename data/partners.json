@@ -67,6 +67,12 @@
         "url": "https://careers.vente-privee.com/en/vptech",
         "logoUrl": "../images/logos/vente-privee.png",
         "width": 250
+      },
+      {
+        "name": "Niji",
+        "url": "https://www.niji.fr",
+        "logoUrl": "../images/logos/niji.jpg",
+        "width": 250
       }
     ]
   },
