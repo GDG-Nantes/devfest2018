@@ -73,5 +73,30 @@
         "link": "https://github.com/svtk"
       }
     ]
+  },
+  "104": {
+    "id": 104,
+    "name": "Alex Qin",
+    "featured": true,
+    "company": "Code Cooperative",
+    "companyLogo": "/images/logos/code-cooperative.jpg",
+    "country": "USA",
+    "photoUrl": "/images/speakers/alex-qin.jpg",
+    "shortBio": "Alex Qin is a Brooklyn based programmer, educator, and public speaker.",
+    "bio": "Alex Qin is a Brooklyn based programmer, educator, and public speaker. She believes in universal access to computer science education and in the importance of building technology for good. She is the founder of the Code Cooperative, an organization that teaches formerly incarcerated individuals tech literacy and coding as a means of liberation. She is on the Board of the Computer Science Teachers Association of NYC and on the Associate Board of Mouse. She recently left Gakko where she was the Director of Technology to work on the Code Cooperative full time. Prior to that, she was the Web Engineering Team Lead at Skillshare, and the Curriculum Director at Coalition for Queens. She holds a B.A. in Computer Science from New York University.",
+    "tags": ["Diversity"],
+    "badges": [],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/alexqin"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/noidontdig"
+      }
+    ]
   }
 }
