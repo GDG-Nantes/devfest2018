@@ -226,7 +226,13 @@
         "url": "https://maif.github.io",
         "logoUrl": "../images/logos/maif.png",
         "width": 220
-      }      
+      },
+      {
+        "name": "TALENTSOFT",
+        "url": "http://www.talentsoft.fr",
+        "logoUrl": "../images/logos/talentsoft.jpg",
+        "width": 220
+      }     
     ]
   },
   {
