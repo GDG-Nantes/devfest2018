@@ -232,7 +232,13 @@
         "url": "http://www.talentsoft.fr",
         "logoUrl": "../images/logos/talentsoft.jpg",
         "width": 220
-      }     
+      },
+      {
+        "name": "Ippon",
+        "url": "https://www.ippon.fr/",
+        "logoUrl": "../images/logos/ippon.png",
+        "width": 220
+      }
     ]
   },
   {
