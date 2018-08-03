@@ -78,7 +78,20 @@
   },
   {
     "title": "after-partner",
-    "logos": []
+    "logos": [
+      {
+        "name": "ADN Booster",
+        "url": "http://www.adnbooster.fr",
+        "logoUrl": "../images/logos/adn-booster.png",
+        "width": 250
+      },
+      {
+        "name": "Conserto",
+        "url": "https://www.conserto.pro",
+        "logoUrl": "../images/logos/conserto.png",
+        "width": 250
+      }
+    ]
   },
   {
     "title": "gold-partner",
