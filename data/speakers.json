@@ -357,7 +357,7 @@
         "company": "Onepoint",
         "companyLogo": "/images/logos/onepoint.png",
         "country": "France",
-        "photoUrl": "images/speakers/Sébastien_Ravoux.jpeg",
+        "photoUrl": "images/speakers/Sébastien_Ravoux.jpg",
         "shortBio": "Leader Expertises & Innovations @ Onepoint Atlantique \n\nJ'anime des équipes d'experts transverses pour développer l'innovation, l'industrialisation, la capitalisation sur des projets de toutes tailles.",
         "bio": "Leader Expertises & Innovations @ Onepoint Atlantique \n\nJ'anime des équipes d'experts transverses pour développer l'innovation, l'industrialisation, la capitalisation sur des projets de toutes tailles.\nMon cœur technologique penche historiquement vers les solutions Microsoft (.Net, Azure, SharePoint, C#), mais aussi (ce n'est plus incompatible !) vers des solutions Open Source, l'IoT, les Réalités Virtuelles/Mixtes.\n",
         "tags": [
@@ -812,11 +812,10 @@
         "id": "130",
         "name": "Anta AIDARA",
         "country": "France",
-        "company": "Xebia",
-        "companyLogo": "/images/logos/xebia.png",
+        "company": "Freelance",
         "photoUrl": "images/speakers/anta_aidara.jpg",
-        "shortBio": "Software Engineer",
-        "bio": "Software Engineer at Xebia",
+        "shortBio": "Freelance fullstack developer",
+        "bio": "Freelance fullstack developer",
         "badges": [],
         "socials": [
             {
