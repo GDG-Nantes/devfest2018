@@ -21,7 +21,6 @@
         e.preventDefault();
 
         if (!this.online) {
-          HOVERBOARD.Elements.Template.$.toast.showMessage('{$ offlineMessage $}');
           return;
         }
 
@@ -30,7 +29,7 @@
             HOVERBOARD.Elements.Template.signIn();
           };
           HOVERBOARD.Elements.Template.$.toast.showMessage(
-            '{$ youShouldSignInSessions $}', signIn, '{$ signIn $}');
+            this.localize('you-should-sign-in'), signIn, this.localize('sign-in'));
           return;
         }
 
@@ -38,13 +37,13 @@
 
         if (this.app.user.sessions && this.app.user.sessions[id]) {
           this.set('app.user.sessions.' + id, null);
-          HOVERBOARD.Elements.Template.$.toast.showMessage('{$ removedFromSchedule $}');
+          HOVERBOARD.Elements.Template.$.toast.showMessage(this.localize('removed-from-schedule'));
         } else {
           if (!this.app.user.sessions) {
             this.app.user.sessions = {};
           }
           this.set('app.user.sessions.' + id, true);
-          HOVERBOARD.Elements.Template.$.toast.showMessage('{$ addedToSchedule $}');
+          HOVERBOARD.Elements.Template.$.toast.showMessage(this.localize('added-to-schedule'));
         }
       },
 
