@@ -87,6 +87,11 @@
         content: "/";
       }
 
+      .meta-language {
+        position: relative;
+        top: 10px;
+      }
+
     </style>
 
     <app-header-layout id="scrollHeaderPanel" fullbleed has-scrolling-region>
@@ -133,7 +138,7 @@
                 </div>
                 <span class="meta">
                     <span>[[_concatArray(session.tags)]]</span>
-                    <span hidden$="[[!session.type]]"> / [[session.type]]</span>
+                    <span hidden$="[[!session.type]]">[[session.type]]</span>
                 </span>
               </div>
             </div>
@@ -290,7 +295,7 @@
             }
             this.set('rate', this.app.user.ratings.sessions[this.session.id] || 0);
           }
-          var generatedClass = this._generateClass(this.session.mainTag);
+          var generatedClass = this._generateClass(this.session.category);
           this.$.detailsHeader.style['background-color'] = this.getComputedStyleValue('--' + generatedClass);
           this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
           this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();

@@ -14,7 +14,10 @@
         "title": "Graslin"
       },
       {
-        "title": "Les machines"
+        "title": "Les Machines"
+      },
+      {
+        "title": "Hangar"
       }
     ],
     "timeslots": [{
@@ -40,19 +43,48 @@
         "endTime": "10:50",
         "sessions": [
           [
-            1910
+            71
+          ],
+          [
+            54
+          ],
+          [
+            15
+          ],
+          [
+            74
           ]
         ]
       },
       {
         "startTime": "10:00",
         "endTime": "12:00",
-        "sessions": []
+        "sessions": [
+          [
+            44
+          ],
+          [
+            26
+          ]
+        ]
       },
       {
         "startTime": "11:10",
         "endTime": "12:00",
-        "sessions": []
+        "sessions": [
+          [
+            31
+          ],
+          [
+            43
+          ],
+          [
+            21
+          ],
+          [
+            66
+          ]
+        ]
       },
       {
         "startTime": "12:00",
@@ -66,37 +98,116 @@
       {
         "startTime": "14:00",
         "endTime": "14:50",
-        "sessions": []
+        "sessions": [
+          [
+            35
+          ],
+          [
+            51
+          ],
+          [
+            73
+          ],
+          [
+            36
+          ]
+        ]
       },
       {
         "startTime": "14:00",
         "endTime": "16:00",
-        "sessions": []
+        "sessions": [
+          [
+            67
+          ],
+          [
+            46
+          ]
+        ]
       },
       {
         "startTime": "15:10",
         "endTime": "16:00",
-        "sessions": []
+        "sessions": [
+          [
+            13
+          ],
+          [
+            14
+          ],
+          [
+            39
+          ],
+          [
+            23
+          ]
+        ]
       },
       {
         "startTime": "16:20",
         "endTime": "18:20",
-        "sessions": []
+        "sessions": [
+          [
+            58
+          ],
+          [
+            69
+          ]
+        ]
       },
       {
         "startTime": "16:20",
         "endTime": "17:10",
-        "sessions": []
+        "sessions": [
+          [
+            10
+          ],
+          [
+            38
+          ],
+          [
+            63
+          ],
+          [
+            6
+          ]
+        ]
       },
       {
         "startTime": "17:20",
         "endTime": "17:40",
-        "sessions": []
+        "sessions": [
+          [
+            70
+          ],
+          [
+            56
+          ],
+          [
+            32
+          ],
+          [
+            16
+          ]
+        ]
       },
       {
         "startTime": "17:50",
         "endTime": "18:10",
-        "sessions": []
+        "sessions": [
+          [
+            30
+          ],
+          [
+            34
+          ],
+          [
+            29
+          ],
+          [
+            8
+          ]
+        ]
       },
       {
         "startTime": "18:30",
@@ -125,7 +236,10 @@
         "title": "Graslin"
       },
       {
-        "title": "Les machines"
+        "title": "Les Machines"
+      },
+      {
+        "title": "Hangar"
       }
     ],
     "timeslots": [{
@@ -140,22 +254,68 @@
       {
         "startTime": "09:00",
         "endTime": "09:50",
-        "sessions": []
+        "sessions": [
+          [
+            65
+          ],
+          [
+            60
+          ],
+          [
+            64
+          ],
+          [
+            53
+          ]
+        ]
       },
       {
         "startTime": "09:00",
         "endTime": "11:00",
-        "sessions": []
+        "sessions": [
+          [
+            47
+          ],
+          [
+            24
+          ]
+        ]
       },
       {
         "startTime": "10:10",
         "endTime": "11:00",
-        "sessions": []
+        "sessions": [
+          [
+            62
+          ],
+          [
+            18
+          ],
+          [
+            25
+          ],
+          [
+            49
+          ]
+        ]
       },
       {
         "startTime": "11:20",
         "endTime": "12:10",
-        "sessions": []
+        "sessions": [
+          [
+            11
+          ],
+          [
+            45
+          ],
+          [
+            55
+          ],
+          [
+            22
+          ]
+        ]
       },
       {
         "startTime": "12:10",
@@ -169,37 +329,107 @@
       {
         "startTime": "13:00",
         "endTime": "15:00",
-        "sessions": []
+        "sessions": [
+          [
+            41
+          ],
+          [
+            12
+          ]
+        ]
       },
       {
         "startTime": "14:00",
         "endTime": "14:50",
-        "sessions": []
+        "sessions": [
+          [
+            40
+          ],
+          [
+            27
+          ],
+          [
+            59
+          ],
+          [
+            17
+          ]
+        ]
       },
       {
         "startTime": "15:10",
         "endTime": "17:10",
-        "sessions": []
+        "sessions": [
+          [
+            28
+          ],
+          [
+            68
+          ]
+        ]
       },
       {
         "startTime": "15:10",
         "endTime": "16:00",
-        "sessions": []
+        "sessions": [
+          [
+            72
+          ],
+          [
+            48
+          ],
+          [
+            19
+          ],
+          [
+            9
+          ]
+        ]
       },
       {
         "startTime": "16:20",
         "endTime": "16:40",
-        "sessions": []
+        "sessions": [
+          [
+            7
+          ],
+          [
+            33
+          ],
+          [
+            61
+          ],
+          [
+            37
+          ]
+        ]
       },
       {
         "startTime": "16:50",
         "endTime": "17:10",
-        "sessions": []
+        "sessions": [
+          [
+            20
+          ],
+          [
+            75
+          ],
+          [
+            50
+          ],
+          [
+            42
+          ]
+        ]
       },
       {
         "startTime": "17:30",
         "endTime": "18:20",
-        "sessions": []
+        "sessions": [
+          [
+            76
+          ]
+        ]
       }
     ]
   }

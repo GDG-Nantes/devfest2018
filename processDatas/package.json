@@ -1,0 +1,17 @@
+{
+    "name": "extract-datas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jefBinomed",
+    "license": "ISC",
+    "dependencies": {
+      "fast-csv": "^2.3.1",
+      "image-downloader": "^3.2.2",
+      "lodash": "^4.17.4",
+      "node-fetch": "^1.6.3"
+    }
+  }

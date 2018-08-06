@@ -68,6 +68,11 @@
       "inMenu": true
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "inMenu": true
+    },
+    {
       "route": "speakers",
       "permalink": "/speakers/",
       "inMenu": true

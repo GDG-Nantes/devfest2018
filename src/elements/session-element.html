@@ -159,6 +159,11 @@
       .speaker-title {
         font-size: 13px;
       }
+
+      .meta-language{
+        position: relative;
+        top: 10px;
+      }
     </style>
 
     <a
@@ -295,7 +300,7 @@
 
         ready: function () {
           this.async(function () {
-            this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.mainTag));
+            this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.category));
           });
         },
 
