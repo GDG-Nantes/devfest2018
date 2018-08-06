@@ -16,5 +16,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/cfp-tickets.jpg",
     "brief": "Le CFP ainsi que la billeterie du DevFest Nantes 2018 sont officiellement ouvert."
+  },
+  {
+    "id": "top-speakers-announced",
+    "title": "Ready to launch",
+    "posted": "2018-07-18",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/top-speakers.jpg",
+    "brief": "Top Speakeuses : La dream team est parée au décollage."
   }
 ]
