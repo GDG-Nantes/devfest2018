@@ -581,8 +581,7 @@
     "123": {
         "id": "123",
         "name": "Stéphanie WALTER",
-        "company": "arhs group",
-        "companyLogo": "/images/logos/arhs.jpg",
+        "company": "",
         "country": "Luxembourg",
         "photoUrl": "images/speakers/Stéphanie_w.jpg",
         "shortBio": "UX et UI Designer, spécialisée en design d'interface et optimisation mobile, actuellement située à Luxembourg.",
