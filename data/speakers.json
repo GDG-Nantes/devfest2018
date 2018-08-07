@@ -1311,9 +1311,9 @@
         "company": "SFEIR",
         "companyLogo": "/images/logos/sfeir.png",
         "country": "France",
-        "photoUrl": "images/speakers/default.jpg",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "images/speakers/Rudy_WEBER.jpg",
+        "shortBio": "Currently working at SFEIR as a Developer Advocate, trainer and functional programming enthusiast.",
+        "bio": "Currently working at SFEIR as a Developer Advocate, trainer and functional programming enthusiast.",
         "tags": [],
         "badges": [],
         "socials": [
