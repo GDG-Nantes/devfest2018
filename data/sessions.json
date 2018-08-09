@@ -895,7 +895,7 @@
   "53": {
       "id": "53",
       "title": "Android all the things!",
-      "description": "Want to build your own DIY smart house stuff but cannot handle a soldering iron without turning everything into a smoldering pile of ash?\n\nI've got you covered! All you need is a Raspberry Pi, a bunch of off-the-shelf sensors and some Kotlin code (and a bit of Javascript). I'll show you how I made my smart house system using Android Things, Firebase, an Android App and Actions for Google without setting anything on fire unintentionally. I'll show you how I used Android Things to collect data and use it with a TensorFlow model to try to predict trends in my house\nStarting from a blank Pi you'll end up with a fully functional app ready to be deployed on your own!",
+      "description": "Vous voulez faire votre propre système de maison connectée DIY, mais vous n’êtes pas capable de manier un fer à souder sans tout réduire en cendres ?\n\nJ’ai ce qu’il vous faut ! Tout ce dont vous aurez besoin est un Raspberry Pi, un tas de capteurs prêts à l’emploi et du code Kotlin (et un peu de Javascript). Je vais vous montrer comment j’ai créé mon système domotique à l’aide d’Android Things, Firebase, une app Android et Actions for Google, le tout sans rien enflammer involontairement. Je vais vous montrer comment j’ai utilisé Android Things pour collecter des données et l’utiliser avec un modèle TensorFlow pour essayer de prédire les tendances dans ma maison.",
       "type": "📣 Conference",
       "track": {
           "title": "Graslin"
