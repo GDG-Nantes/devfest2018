@@ -1476,12 +1476,14 @@
         "id": "153",
         "name": "Julien TOPCU",
         "company": "Société Générale & OWASP fundation",
-        "companyLogo": "/images/logos/egencia.jpg",
+        "companyLogo": "/images/logos/societe-generale.png",
         "country": "France",
         "photoUrl": "images/speakers/Julien_TOPCU.png",
         "shortBio": "Senior Lead Developer à la Société Générale, je suis un fervent défenseur du Software Craftsmanship.",
-        "bio": "Senior Lead Developer à la Société Générale, je suis un fervent défenseur du Software Craftsmanship. \n\nJ'évangélise activement autour de DDD/Hexagonal Architecture, l'XP et le Kanban #NoEstimates au sein de cours et de [meetups](https://youtu.be/P0_M00X4Xlw) ainsi qu'à travers d'articles de blog.\n\nMembre de la fondation OWASP, je m'efforce de transmettre à la communauté une philosophie DevSecOps que je pense être l'avenir du métier de développeur. J'ai participé à la mise en place de pipeline de Continuous Security à l'échelles d'entreprises.",
-        "tags": ["Security"],
+        "bio": "Senior Lead Developer à la Société Générale, je suis un fervent défenseur du Software Craftsmanship.\n\nJ'évangélise activement autour de DDD/Hexagonal Architecture, l'XP et le Kanban #NoEstimates au sein de cours et de [meetups](https://youtu.be/P0_M00X4Xlw) ainsi qu'à travers d'articles de blog.\n\nMembre de la fondation OWASP, je m'efforce de transmettre à la communauté une philosophie DevSecOps que je pense être l'avenir du métier de développeur. J'ai participé à la mise en place de pipeline de Continuous Security à l'échelles d'entreprises.",
+        "tags": [
+            "Security"
+        ],
         "badges": [],
         "socials": [
             {
