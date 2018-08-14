@@ -785,7 +785,7 @@
   "46": {
       "id": "46",
       "title": "It’s just like JavaScript… except where it isn’t",
-      "description": "re-discover an old language through a new syntax, re-discover an old paradigm through a new lens, discover ReasonML !\n\nReasonML is a dialect of OCaml. Created at Facebook by Jordan Walke, the creator of React, it aims at bringing OCamls type system and expressiveness to the JavaScript community. Compile to JS or native, interop easily with JS libs, be guided by great tooling. \n\nIf you like TypeScript or Flow and constantly hit their respective limits, this workshop is for you !",
+      "description": "Vous êtes convaincus des avantages de TypeScript ou Flow, mais vous êtes frustrés de leurs limites ? Ce codelab est fait pour vous !\n\nReasonML est un dialecte de OCaml, crée par Jordan Walke (le créateur de React), développé par une petite équipe chez Facebook et une communauté enthousiaste. Le but est de faciliter l'accès au système de type avancé et à l'expressivité de OCaml en lui donnant une syntaxe proche de JavaScript, une toolchain commune et une interopérabilité trivialement simple.\n\nSi ReasonML vous permet aussi de compiler vers du code natif, ce codelab sera centré autour de la compilation vers JavaScript pour le développement frontend. Venez préparés ! Suivez les instructions d'installation de la plateforme et du support de votre IDE préféré sur https://reasonml.github.io/",
       "type": "💻 Codelab",
       "track": {
           "title": "Hangar"
