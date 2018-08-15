@@ -742,10 +742,10 @@
     "128": {
         "id": "128",
         "name": "Adrien PESSU",
-        "company": "Adrien Pessu Consulting",
+        "company": "Freelance",
         "country": "France",
         "photoUrl": "images/speakers/Adrien_PESSU.jpg",
-        "shortBio": "Adrien est passionné de développement, en particulier Java et Web.",
+        "shortBio": "Adrien est passionné de développement, en particulier Java, Kotlin et Angular.",
         "bio": "Adrien est passionné de développement, en particulier Java et Web. Il a évolué pendant plusieurs années en société de services chez un éditeur logiciel, il s’est lancé dans l’aventure freelance. Vous pourrez aussi le croiser dans certains meetups tech",
         "tags": [
             "Web",
