@@ -76,7 +76,7 @@
       "id": "7",
       "title": "Passez vos tests end-to-end en vitesse lumière avec Cypress",
       "description": "Sorti en beta en octobre dernier, Cypress connait déjà un grand succès dans le domaine du test End-To-End (E2E) jusqu’alors dominé par Selenium. Développé depuis 2015, l’équipe en charge du développement de Cypress prend un soin particulier à l’expérience développeur (DX).\n\nDans cette conférence, nous verrons brièvement ce qui caractérise Cypress de Selenium et nous ferons un live-coding qui nous permettra de passer en revue les principales fonctionnalités ainsi que les compromis à prendre en compte.\n\nA l’issue de cette présentation, faire des tests E2E ne sera plus une souffrance !\n",
-      "type": "📣 Conference",
+      "type": "⚡️ Quickie",
       "track": {
           "title": "Titan"
       },
