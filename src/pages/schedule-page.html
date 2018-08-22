@@ -7,6 +7,7 @@
 <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
 
 <link rel="import" href="../../bower_components/paper-card/paper-card.html">
+<link rel="import" href="../../bower_components/paper-progress/paper-progress.html">
 
 <link rel="import" href="../../bower_components/neon-animation/neon-animated-pages.html">
 
@@ -38,6 +39,12 @@
 
       schedule-day {
         margin-bottom: 64px;
+      }
+
+      paper-progress {
+        width: 100%;
+        --paper-progress-active-color: var(--default-primary-color);
+        --paper-progress-secondary-color: var(--default-primary-color);
       }
       
     </style>
@@ -71,12 +78,15 @@
         filters="{{filters}}"
       ></schedule-subnav>
 
+      <paper-progress id="progressBar" indeterminate></paper-progress>
+
       <neon-animated-pages selected="[[app.selectedDay]]" attr-for-selected="name">
         <template is="dom-repeat" items="[[schedule]]" as="day" on-dom-change="updateCascadedNodes">
           <schedule-day
             name$="day[[_addToValue(index, 1)]]"
             app="{{app}}"
             day="[[day]]"
+            rendered="{{scheduleRendered}}"
             filters="[[filters]]"
           ></schedule-day>
         </template>
@@ -135,6 +145,12 @@
 
           filters: {
             type: Array
+          },
+
+          scheduleRendered: {
+            type: Boolean,
+            value: false,
+            notify: true
           }
         },
 
@@ -142,11 +158,18 @@
           '_routePageChanged(routeData.day)',
           '_userChanged(app.user)',
           '_queryParamsChanged(queryParams, sessions)',
-          '_filtersChanged(filters.splices)'
+          '_filtersChanged(filters.splices)',
+          '_scheduleRenderedChanged(scheduleRendered)'
         ],
 
         listeners: {
           'iron-overlay-closed': '_resetSessionIdParam'
+        },
+
+        _scheduleRenderedChanged: function (scheduleRendered) {
+          if (scheduleRendered) {
+            this.$.progressBar.remove();
+          }
         },
 
         _routePageChanged: function (day) {
