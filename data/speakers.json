@@ -1962,11 +1962,11 @@
     "172": {
         "id": "172",
         "name": "Damien SENGER",
-        "company": "Raccoon Studio",
+        "company": "Castor EDC",
         "country": "Netherlands",
         "photoUrl": "images/speakers/Damien_SENGER.jpg",
-        "shortBio": "Damien est designer d’expériences centrées utilisateur à Amsterdam, Pays-Bas.",
-        "bio": "Damien est designer d’expériences centrées utilisateur à Amsterdam, Pays-Bas.\nMilitant queer et autiste, iel s’est spécialisé au cours des dernières années dans dans la création de services inclusifs et accessibles et l’analyse des besoins utilisateurs.\n\nIel coorganise des meetups à Amsterdam comme le NLHTML5. Et au milieu de ses passions pour la typographie et l'accessibilité, on retrouve également l'urbanisme, les transports ferroviaire et aérien et les ratons-laveur ! ",
+        "shortBio": "Damien is queer digital Product Designer working for Castor EDC in Amsterdam, fighting for a more accessible and inclusive web.",
+        "bio": "I'm a queer digital Product Designer working for Castor EDC in Amsterdam.\nI am fighting for a more inclusive web and working in the healthcare industry push me to always focus my work on accessibility at every step of a project.\nOver the past 6 years, I've been lucky to help a lot of different companies to achieve their goals and be closer to their audience. From tiny businesses to nation-wide political parties, I always developed a user-centered methodology to build robust solutions with inclusivity in mind.",
         "tags": [
             "Design"
         ],
@@ -1983,9 +1983,14 @@
                 "link": "https://github.com/hiwelo"
             },
             {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/damiensenger/en/"
+            },
+            {
                 "icon": "website",
                 "name": "Website",
-                "link": "https://hiwelo.co"
+                "link": "https://raccoon.studio"
             }
         ]
     },
