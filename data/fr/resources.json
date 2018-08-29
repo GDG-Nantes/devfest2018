@@ -182,5 +182,8 @@
   "schedule-title": "Quelles sont les horaires ?",
   "schedule-text": "Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le Jeudi 18 Octobre et de 8h30 à 19h00 le Vendredi 19 Octobre.",
   "accessibility-title": "Accessibilité",
-  "accessibility-text": "Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, quel que soit le handicap ou les besoins particuliers. Les participants handicapés et / ou ayant des besoins spéciaux doivent fournir des détails dans le formulaire d'inscription et / ou en nous envoyant un courriel à bureau@gdgnantes.com. Cette information sera gardée confidentielle et ne sera distribuée qu'aux personnes qui ont besoin de la connaître pour répondre à votre demande. Sinon, veuillez contacter l'un des bénévoles si vous avez besoin d'aide ou si vous avez des questions sur l'accessibilité pendant l'événement.\n\nÀ La Cité des Congrès, toutes les zones sont accessibles aux utilisateurs de fauteuils roulants."
+  "accessibility-text": "Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, quel que soit le handicap ou les besoins particuliers. Les participants handicapés et / ou ayant des besoins spéciaux doivent fournir des détails dans le formulaire d'inscription et / ou en nous envoyant un courriel à bureau@gdgnantes.com. Cette information sera gardée confidentielle et ne sera distribuée qu'aux personnes qui ont besoin de la connaître pour répondre à votre demande. Sinon, veuillez contacter l'un des bénévoles si vous avez besoin d'aide ou si vous avez des questions sur l'accessibilité pendant l'événement.\n\nÀ La Cité des Congrès, toutes les zones sont accessibles aux utilisateurs de fauteuils roulants.",
+  "workshop-warning-header": "La capacité de cette session est limitée.",
+  "workshop-warning-info": "Les places lors de cette session seront attribuées selon le principe du premier arrivé, premier servi.",
+  "workshop-warning-button": "OK"
 }
