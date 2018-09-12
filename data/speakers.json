@@ -2124,36 +2124,21 @@
     },
     "178": {
         "id": "178",
-        "name": "Gérard SANS",
+        "name": "Sarah HAIM-LUBCZANSKI",
         "company": "",
-        "country": "UK",
-        "photoUrl": "images/speakers/gerard_Sans.jpg",
-        "shortBio": "Gerard is very excited about the future of the Web and JavaScript.",
-        "bio": "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
+        "country": "France",
+        "photoUrl": "images/speakers/sarahhaim.jpg",
+        "shortBio": "Technical Writer après avoir été formatrice, puis développes, Sarah Haïm-Lubczanski a toujours préféré le contact des informaticiens spécialistes à celui du grand public, et cela a bien fonctionné puisqu'elle écrit de la documentation de logiciel opensource.",
+        "bio": "Technical Writer après avoir été formatrice, puis développes, Sarah Haïm-Lubczanski a toujours préféré le contact des informaticiens spécialistes à celui du grand public, et cela a bien fonctionné puisqu'elle écrit de la documentation de logiciel opensource.\n\nCo-fondatrice de l’antenne AFUP Lyon, co-fondatrice de la Game Dev Party et co-organisatrice du premier Coding Goûter lyonnais, elle est engagée dans le tissu associatif local technologique. Elle apprécie d’être à l’initiative de projets qui aident les autres. ",
         "tags": [
             "Web"
         ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Google Developer Expert"
-            }
-        ],
+        "badges": [],
         "socials": [
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/gerardsans"
-            },
-            {
-                "icon": "github",
-                "name": "Github",
-                "link": "https://github.com/gerardsans"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://medium.com/@gerard.sans"
+                "link": "https://twitter.com/sarahhaim"
             }
         ]
     },
@@ -2201,6 +2186,65 @@
                 "icon": "github",
                 "name": "Github",
                 "link": "https://github.com/ingride"
+            }
+        ]
+    },
+    "181": {
+        "id": "181",
+        "name": "Christian HEILMANN",
+        "company": "Microsoft",
+        "companyLogo": "/images/logos/microsoft.png",
+        "country": "Germany",
+        "photoUrl": "images/speakers/Christian_HEILMANN.png",
+        "shortBio": "Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive.",
+        "bio": "Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do.",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+            {
+                "name": "Senior Program Manager",
+                "description": "Senior Program Manager"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/codepo8"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/codepo8"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://christianheilmann.com/"
+            }
+        ]
+    },
+    "182": {
+        "id": "182",
+        "name": "Cécilia BOSSARD",
+        "company": "",
+        "country": "France",
+        "photoUrl": "images/speakers/cecilia_bossard.jpg",
+        "shortBio": "Cécilia a un but : aider les équipes à produire des logiciels utiles aux utilisateurs finaux. Pour cela, je les accompagne en intégrant les équipes de développement ou en les assistant dans leur transition agile.",
+        "bio": "Cécilia a un but : aider les équipes à produire des logiciels utiles aux utilisateurs finaux. Pour cela, je les accompagne en intégrant les équipes de développement ou en les assistant dans leur transition agile. Impliquée dans la communauté agile nantaise, je participe également à l'organisation de l'Agile Tour de Nantes. Femme développeuse, je suis également co-fondatrice du groupe Women In Technology à Nantes, dont le but est de promouvoir les femmes dans la technique. Dans ce cadre, je participe également aux initiations à la programmation à destination des enfants avec des initiatives telles que les Devoxx4Kids ou les coding goûters.",
+        "tags": [],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ceciliaBossard"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://javagile.wordpress.com/"
             }
         ]
     }
