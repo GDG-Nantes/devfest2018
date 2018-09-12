@@ -25,5 +25,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/top-speakers.jpg",
     "brief": "Top Speakeuses : La dream team est parée au décollage."
+  },
+  {
+    "id": "program-announced",
+    "title": "Le Programme du Développeur Galactique ",
+    "posted": "2018-09-10",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/program-announced.jpg",
+    "brief": "Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2018 est disponible."
   }
 ]
