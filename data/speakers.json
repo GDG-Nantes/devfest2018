@@ -1382,34 +1382,18 @@
     },
     "150": {
         "id": "150",
-        "name": "Vincent OGLOBLINSKY",
+        "name": "Marc BOUTEILLER",
         "company": "SII",
         "companyLogo": "/images/logos/sii.png",
         "country": "France",
-        "photoUrl": "images/speakers/Vincent_Ogloblinsky.jpg",
-        "shortBio": "Architecte logiciel dans une ESN française, je suis passionné par les technologies du web, et la plupart du temps je les utilise en codant en (Type||Java)script.",
-        "bio": "Architecte logiciel dans une ESN française, je suis passionné par les technologies du web, et la plupart du temps je les utilise en codant en (Type||Java)script.\nLe partage de la connaissance est pour moi une chose importante : au sein de ma société au travers de déjeuners techniques ou de sessions de mobprogramming; durant des formations HTML5, Angular 1 & 2 ou autres; en présentant des sujets lors de conférences; et enfin en contribuant et en maintenant des projets open-source.\n\"Let's browsers rock\"",
+        "photoUrl": "images/speakers/Marc_Bouteiller.png",
+        "shortBio": "Développeur FullStack.",
+        "bio": "Développeur FullStack.",
         "tags": [
             "Web"
         ],
         "badges": [],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/vogloblinsky"
-            },
-            {
-                "icon": "github",
-                "name": "Github",
-                "link": "https://github.com/vogloblinsky"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.vincentogloblinsky.com"
-            }
-        ]
+        "socials": []
     },
     "151": {
         "id": "151",
