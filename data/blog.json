@@ -34,5 +34,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/program-announced.jpg",
     "brief": "Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2018 est disponible."
+  },
+  {
+    "id": "creative",
+    "title": "Mot du sponsor Groupe CREATIVE",
+    "posted": "2018-09-25",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/creative.jpg",
+    "brief": "Merci au sponsor Groupe CREATIVE pour son soutien."
   }
 ]
