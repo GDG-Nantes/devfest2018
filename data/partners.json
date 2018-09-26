@@ -73,6 +73,12 @@
         "url": "https://www.niji.fr",
         "logoUrl": "../images/logos/niji.jpg",
         "width": 250
+      },
+      {
+        "name": "Nantes Saint-Nazaire Développement",
+        "url": "https://www.nantes-saintnazaire.fr",
+        "logoUrl": "../images/logos/nantes-saintnazaire.jpg",
+        "width": 250
       }
     ]
   },
