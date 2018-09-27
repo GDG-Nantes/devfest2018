@@ -52,5 +52,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/sold-out.jpg",
     "brief": "Depuis maintenant 2 semaines nous sommes sold out."
+  },
+  {
+    "id": "epitech",
+    "title": "Mot du sponsor Epitech",
+    "posted": "2018-09-27",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/epitech.jpg",
+    "brief": "Merci au sponsor Epitech pour son soutien."
   }
 ]
