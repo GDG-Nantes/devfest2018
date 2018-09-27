@@ -199,16 +199,27 @@
         "id": "108",
         "name": "Marc LEBRUN",
         "country": "France",
-        "photoUrl": "images/speakers/default.jpg",
+        "photoUrl": "images/speakers/Marc_LEBRUN.png",
         "company": "Digitemis",
         "companyLogo": "/images/logos/digitemis.png",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Passionné de sécurité et pentester depuis 6 ans, Marc pilote l'équipe audit technique de Digitemis. Entre deux missions de tests d'intrusion, il développe les méthodologies et l’outillage intrusif nécessaires à leur réalisation et participe à la formation et la montée en compétence des autres équipes.",
+        "bio": "Passionné de sécurité et pentester depuis 6 ans, Marc pilote l'équipe audit technique de Digitemis. Entre deux missions de tests d'intrusion, il développe les méthodologies et l’outillage intrusif nécessaires à leur réalisation et participe à la formation et la montée en compétence des autres équipes.",
         "tags": [
           "Security"
         ],
         "badges": [],
-        "socials": []
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/MarcLebrun"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/marc-lebrun-a719a41a"
+            }
+        ]
     },
     "109": {
         "id": "109",
