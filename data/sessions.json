@@ -1152,21 +1152,21 @@
   },
   "167": {
     "id": 167,
-    "title": "Cloud Native monitoring avec Prometheus et Grafana 🚨📊",
-    "description": "Prometheus est une time-series database légère et développée selon le modèle de Borgmon (Google).\n\nElle est entourée d'un écosystème très riche, permettant de superviser:\n- des servers\n- des services (applications, databases...)\n- des métriques métier (nombre d'utilisateurs, nombre d'achats...)\n\nPrometheus s'intègre à tout type d'infrastructures, sans être intrusif et peut aller chercher sa configuration dans un service discovery tel que Consul, Kubernetes, DNS, EC2...\n\nEt que serait une platforme de monitoring sans alerting et quelques graphs ?! Nous feront un POC avec Grafana et l'alertmanager.\n\nSteps:\n- 💪setup prometheus\n- 🏋️exporter des metrics: server\n- 🚄encore plus de metrics: services\n- 🚀toujours plus de metrics: metrics métier\n- 🤔requêter\n- 📈visualiser\n- 🚒alerter\n\nLes développeurs sont les bienvenus à ce codelab!\n\nAucun pré-requis n'est nécessaire, mais connaitre Docker vous fera gagner beaucoup de temps.\n\n![heart monitor](https://media.giphy.com/media/ZKw0NDn10ljSE/giphy.gif)",
-    "type": "💻 Codelab",
-    "track": {
-        "title": "Hangar"
-    },
-    "category": "cloud",
-    "language": "fr",
-    "tags": [
-        "☁️ Cloud & DevOps"
-    ],
-    "complexity": "Beginner",
-    "speakers": [
-        169
-    ]
+      "title": "Cloud Native monitoring with Prometheus and Grafana 🚨📊",
+      "description": "Prometheus is a lightweight timeseries database, based on the Borgmon model (Google).\n\nIt take advantage of a large and rich ecosystem to monitor:\n- servers\n- services (applications, databases...)\n- real-time business metrics (number of users, purchases, average cart size...)\n\nPrometheus can be plugged into any kind of infrastructure, without without being obstrusive and can fetch configuration from service discovery such as Consul, Kubernetes, DNS, EC2...\n\nWhat would have been a monitoring platform without alerting and some graphic dashboards ?! During this workshop, we will setup a POC with Prometheus, Grafana and alertmanager.\n\nSteps:\n- 💪setup prometheus\n- 🏋️exporting metrics: server\n- 🚄 more metrics: services\n- 🚀always more metrics: business metrics\n- 🤔queries\n- 📈visualization\n- 🚒alerting\n\nDevelopers are welcomed!\n\nBring your laptop.\nNo requirement is needed, but knowing Docker will save you time.\n\n[FR/EN]",
+      "type": "💻 Codelab",
+      "track": {
+          "title": "Hangar"
+      },
+      "category": "cloud",
+      "language": "fr",
+      "tags": [
+          "☁️ Cloud & DevOps"
+      ],
+      "complexity": "Beginner",
+      "speakers": [
+          169
+      ]
   },
   "168": {
     "id": 168,

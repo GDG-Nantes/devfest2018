@@ -1888,8 +1888,8 @@
         "company": "Grep.to",
         "country": "France",
         "photoUrl": "images/speakers/Samuel_BERTHE.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.",
+        "bio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.\n\nPreviously DevOps Engineer at iAdvize, where I gained experience in cloud infrastructures, monitoring and automated development workflows ☁️. Open-source enthusiast and passionate about Docker ecosystem since the beginning.  🐳",
         "tags": [
             "Cloud",
             "Devops"
@@ -1900,6 +1900,11 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/samuelberthe"
+            },
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/samuelberthe/"
             },
             {
                 "icon": "github",
