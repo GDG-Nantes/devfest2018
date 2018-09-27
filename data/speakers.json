@@ -1884,27 +1884,27 @@
     },
     "169": {
         "id": "169",
-        "name": "Jean-Baptiste CLION",
-        "company": "Crédit Suisse",
-        "companyLogo": "/images/logos/credit-suisse.png",
-        "country": "Switzerland",
-        "photoUrl": "images/speakers/Jean-Baptiste_Clion.jpg",
-        "shortBio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
-        "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.\n\nFocused on Google Cloud Platform, he is a real GCP enthusiast with couples of years experience on the solution.\n\nHe was the founder and co-organizer of GDG Basel, Switzerland.\n\nJean-Baptiste worked in various industries such as Defense & Aeronautics, Finance & Consulting.\n\nHe will be glad to talk to with you about GCP and Google cloud solutions.",
+        "name": "Samuel BERTHE",
+        "company": "Grep.to",
+        "country": "France",
+        "photoUrl": "images/speakers/Samuel_BERTHE.jpg",
+        "shortBio": "",
+        "bio": "",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Devops"
         ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Google Developer Expert"
-            }
-        ],
+        "badges": [],
         "socials": [
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/JBaptisteClion"
+                "link": "https://twitter.com/samuelberthe"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/samber"
             }
         ]
     },

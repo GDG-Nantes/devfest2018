@@ -1152,18 +1152,18 @@
   },
   "167": {
     "id": 167,
-    "title": "B2B: Leveraging Bot-To-Bot communications",
-    "description": "The Talk:\nChatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.\n\nThe Workshop: 60-90 minutes workshop to build Bot-To-Bot experience with DialogFlow and Google Cloud Platform. This workshop would complete the 30 minutes talk.",
+    "title": "Cloud Native monitoring avec Prometheus et Grafana 🚨📊",
+    "description": "Prometheus est une time-series database légère et développée selon le modèle de Borgmon (Google).\n\nElle est entourée d'un écosystème très riche, permettant de superviser:\n- des servers\n- des services (applications, databases...)\n- des métriques métier (nombre d'utilisateurs, nombre d'achats...)\n\nPrometheus s'intègre à tout type d'infrastructures, sans être intrusif et peut aller chercher sa configuration dans un service discovery tel que Consul, Kubernetes, DNS, EC2...\n\nEt que serait une platforme de monitoring sans alerting et quelques graphs ?! Nous feront un POC avec Grafana et l'alertmanager.\n\nSteps:\n- 💪setup prometheus\n- 🏋️exporter des metrics: server\n- 🚄encore plus de metrics: services\n- 🚀toujours plus de metrics: metrics métier\n- 🤔requêter\n- 📈visualiser\n- 🚒alerter\n\nLes développeurs sont les bienvenus à ce codelab!\n\nAucun pré-requis n'est nécessaire, mais connaitre Docker vous fera gagner beaucoup de temps.\n\n![heart monitor](https://media.giphy.com/media/ZKw0NDn10ljSE/giphy.gif)",
     "type": "💻 Codelab",
     "track": {
         "title": "Hangar"
     },
-    "category": "web",
-    "language": "en",
+    "category": "cloud",
+    "language": "fr",
     "tags": [
-        "🌍 Web"
+        "☁️ Cloud & DevOps"
     ],
-    "complexity": "Intermediate",
+    "complexity": "Beginner",
     "speakers": [
         169
     ]
