@@ -221,8 +221,8 @@
   },
   "116": {
     "id": 116,
-    "title": "Hackers against natural disasters",
-    "description": "Talk sur les enjeux et les solutions des problèmes de communication en cas de catastrophes naturelles.",
+    "title": "Hacker les catastrophes naturelles",
+    "description": "La Cybersécurité est souvent associée aux failles, attaques, confidentialité, disponibilité des infrastructures. Trop souvent les catastrophes naturelles sont négligées comme risques majeurs dans nos métiers. L'Alerte aux populations est un sujet mal traité en France à tel point, que nous ne disposons toujours pas de système d'alerte numérique radio. Depuis plus de 7 ans des hackers se mobilisent au sein de HAND, lors d'exercices tsunami pour sensibiliser collectivités, entreprises et citoyens aux enjeux de la prévention des crises. La culture des risques naturels doit s'étendre à nos métiers. Cette conférence à pour but de faire l'état de l'art des systèmes d'alerte et de les mettre en œuvre dans la salle de conférence. De la BLU à la future norme 5G en passant par la Bande FM nous verrons comment les radioamateurs et les hackers peuvent aider à sauver des vies.",
     "type": "📣 Conference",
     "track": {
         "title": "Tour Bretagne"
