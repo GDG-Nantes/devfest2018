@@ -61,5 +61,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/epitech.jpg",
     "brief": "Merci au sponsor Epitech pour son soutien."
+  },
+  {
+    "id": "zenika",
+    "title": "Mot du sponsor Zenika",
+    "posted": "2018-10-04",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/zenika.jpg",
+    "brief": "Merci au sponsor Zenika pour son soutien."
   }
 ]
