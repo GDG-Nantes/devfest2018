@@ -1,18 +1,21 @@
-## Quelques mots sur notre sponsor Vente-Privée
+## Quelques mots sur notre sponsor vpTech
 
-At vpTech, we love people who love IT. Vente-Privee knows that you have to innovate in order to be a pioneer in ecommerce, and technology contributes to quality.
+At vpTech, we love people who love IT.
 
-In 2016, we took our IT strategy to another level by rolling out a new product organization.
-Each product is a start-up, based within the company, where employees can work on it independently.
-We now support a team, not a project.
-We trust employees to make the right choices. As a result, we use a wide variety of languages, systems, and tools (e.g., React, C#, Haskell, Python, Cassandra, Couchbase, MongoDB, and Kubernetes).
+vpTech is one of the biggest tech communities in the retail industry in Europe.
 
-If you're human, you have to do your job well, and IT can deliver the solutions to help you do so.
+Since 2018, vente-privee, vente-exclusive, Privalia, Zlote and eBoutic decided to regroup their IT teams in order to create one of the biggest IT departments in European retail industry : <vpTech/>
 
-Our R&D department, composed of Lab 42 and Lab Epitech, is full of talented students from these two well-known IT schools, both of which offer internships in our company. Fresh blood, fresh ideas and the power to be disruptive!
+Because innovation and technology contributes to quality, our goal is to entertain your shopping day after day with several batches in innovation.
 
-We are based in several cities, Paris (Saint-Denis), Amsterdam, Warsaw, Lyon, Nantes. The happiness of our employees is our priority.
-Today, we have over 500 IT employees working on an array of projects. Bringing real passion to their work, they have developed reliable and innovative solutions for web tools.
+Autonomy is key to work at vpTech and as a result, we use a wide variety of languages, systems, and tools (e.g., React, C#, Haskell, Python, Cassandra, Couchbase, MongoDB, and Kubernetes…)
 
-We love to say, 'It's not you who comes to us but we who come to you.'
+Composed by Lab 42 and Lab Epitech, our R&D department is full of talented students from these two well-known IT schools, to who we both offer internships in our company. Fresh blood, fresh ideas and the power to be disruptive!
+
+Based in Paris (Saint-Denis), Lyon, Nantes, Amsterdam, Warsaw, Barcelona, Brussels, Geneva, Tel Aviv, our working routine goes from Spain to the Netherlands, passed through France and Poland.
+
+Today, we are proud to say that we have more than 800 IT employees who are working on an array of projects, bringing real passion to their work, developing reliable and innovative solutions for web tools.
+
+If you think you are ready to compete with most of the best IT talent in Europe, you’re welcome.
+
 Join us.
