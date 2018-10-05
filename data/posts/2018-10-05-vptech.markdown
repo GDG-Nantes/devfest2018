@@ -1,0 +1,18 @@
+## Quelques mots sur notre sponsor Vente-Privée
+
+At vpTech, we love people who love IT. Vente-Privee knows that you have to innovate in order to be a pioneer in ecommerce, and technology contributes to quality.
+
+In 2016, we took our IT strategy to another level by rolling out a new product organization.
+Each product is a start-up, based within the company, where employees can work on it independently.
+We now support a team, not a project.
+We trust employees to make the right choices. As a result, we use a wide variety of languages, systems, and tools (e.g., React, C#, Haskell, Python, Cassandra, Couchbase, MongoDB, and Kubernetes).
+
+If you're human, you have to do your job well, and IT can deliver the solutions to help you do so.
+
+Our R&D department, composed of Lab 42 and Lab Epitech, is full of talented students from these two well-known IT schools, both of which offer internships in our company. Fresh blood, fresh ideas and the power to be disruptive!
+
+We are based in several cities, Paris (Saint-Denis), Amsterdam, Warsaw, Lyon, Nantes. The happiness of our employees is our priority.
+Today, we have over 500 IT employees working on an array of projects. Bringing real passion to their work, they have developed reliable and innovative solutions for web tools.
+
+We love to say, 'It's not you who comes to us but we who come to you.'
+Join us.

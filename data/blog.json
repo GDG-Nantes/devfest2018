@@ -70,5 +70,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/zenika.jpg",
     "brief": "Merci au sponsor Zenika pour son soutien."
+  },
+  {
+    "id": "vptech",
+    "title": "Mot du sponsor Vente-Privée",
+    "posted": "2018-10-05",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/vptech.jpg",
+    "brief": "Merci au sponsor Vente-Privée pour son soutien."
   }
 ]
