@@ -1,0 +1,27 @@
+## Préparez votre venue ! 
+Ca y est le DevFest arrive à grand pas, il est maintenant temps pour vous de vous organiser ! 
+Voici donc la checklist du participant.e au DevFest : 
+* Mon billet accessible pour éviter les bouchons au moment du retrait de mon pass. Attention à bien garder tout le temps mon pass avec moi ! Toute personne sans pass sera reconduite à l’extérieur du site.
+* Ma carte d’identité (ou un papier justifiant votre identité) pour retirer votre billet.
+* Mes cartes de visites. Le DevFest c’est aussi un moment idéal pour rencontrer et discuter avec l'écosystème Nantais !
+* Mon laptop si je participe à un codelab. Ne pas oublier au passage de vérifier si le codelab n’a pas de prérequis d’installation. 
+* Evitez les gros sacs. Nous sommes soumis au plan vigipirate, une fouille des sacs sera donc effectuée. A noter qu’un vestiaire sera disponible.
+* Mes téléphones et tablettes chargés à bloc pour tweeter ([#DevFestNantes](https://twitter.com/search?q=%23devfestnantes&src=typd)) et prendre des photos et des notes toute la journée.
+* Ma bonne humeur et me rappeler qu’il y a un [Code de Conduite](https://devfest.gdgnantes.com/cod/) à respecter.
+* Mon agenda préparé à l’avance via :
+  * Une synchronisation de vos sessions sur le [site web](https://devfest.gdgnantes.com/)
+  * Si notre plus petite salle (Graslin) est pleine, nous avons prévu une [zone de rediffusion](https://devfest.gdgnantes.com/attending/)
+  * Me garder un temps de dédié pour me balader et rencontrer les différents stands… et surtout profiter des animations et gagner des jeux concours !
+  * Me poser dans la zone Lounge à l’étage pour me reposer tranquillement.
+* Ma logistique avec tout ce qu’il faut dans la rubrique ["Pratique"](https://devfest.gdgnantes.com/attending/) pour se rendre au DevFest ou connaitre notre hôtel partenaire
+
+## Retrait des places
+Il n’est pas la peine d’imprimer son billet pour retirer sa place, mais pensez à bien avoir au minimum la version numérique de votre pass.
+
+Afin d’éviter les longues files d’attentes, vous pourrez retirer votre pass dès le mercredi 17 Octobre de 12h à 16h. Cela vous permettra de gagner un temps précieux jeudi matin. Les portes ouvrent à 8h le jeudi matin et la keynote commencera à 9h.
+
+## After Party
+Cette année, ce sont nos sponsors Conserto & ADN Booster qui organisent l’After Party du DevFest le jeudi 18 Octobre. Toutes les participantes et participants munis d’un badge DevFest Nantes sont donc conviés sur le site du DevFest à l’étage à côté de la mezzanine à une After Party entre 18h30 et 22h00.
+
+## Rappel : ChooseYourBoss
+Pour cette 7ème édition, le DevFest Nantes continue l'expérience du jobboard réservé à nos sponsors. Vous pouvez d’ores et déjà consulter les offres de nos différents sponsors grâce à notre partenaire ChooseYourBoss en passant par cette [page dédiée](https://www.chooseyourboss.com/events/devfest-nantes-2018/). Leur plateforme permettra de rentrer en contact avec les sociétés et de les rencontrer le jour J sur leurs stands. Nous remercions les partenaires qui ont joué le jeu et ont diffusé des annonces très attrayantes ! [Connectez-vous pour en savoir plus](https://www.chooseyourboss.com/events/devfest-nantes-2018/).
