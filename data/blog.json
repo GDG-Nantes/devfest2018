@@ -79,5 +79,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/vptech.jpg",
     "brief": "Merci au sponsor vpTech pour son soutien."
+  },
+  {
+    "id": "sfeir",
+    "title": "Mot du sponsor SFEIR",
+    "posted": "2018-10-08",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/sfeir.jpg",
+    "brief": "Merci au sponsor SFEIR pour son soutien."
   }
 ]
