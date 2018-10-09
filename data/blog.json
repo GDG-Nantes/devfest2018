@@ -93,9 +93,18 @@
     "id": "venue",
     "title": "The Eagle has landed!",
     "posted": "2018-10-08",
-    "primaryColor": "#455A64",
+    "primaryColor": "#44504E",
     "secondaryColor": "#5A7785",
     "image": "/images/posts/venue.jpg",
     "brief": "Ca y est le DevFest arrive à grand pas, il est maintenant temps pour vous de vous organiser !"
+  },
+  {
+    "id": "onepoint",
+    "title": "Mot du sponsor Onepoint",
+    "posted": "2018-10-09",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/onepoint.jpg",
+    "brief": "Merci au sponsor Onepoint pour son soutien."
   }
 ]
