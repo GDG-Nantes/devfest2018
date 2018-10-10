@@ -1,0 +1,13 @@
+## Quelques mots sur notre sponsor Talend
+
+The future of DevOps is mastery of multi-cloud environments
+
+By Thomas Steinborn, Director Product Management at Talend
+
+DevOps is a set of practices that automates the processes between software development and IT teams so they can build, test, and release software more quickly and reliably. The concept of DevOps is founded on building a culture of collaboration between IT and business teams, which have historically functioned in relative siloes. The promised benefits include increased trust, faster software releases, and the ability to solve critical issues quickly.
+
+That said, implementing a successful DevOps organization requires IT leaders to think more broadly about how to spur a cultural and organizational shift within both their team and the broader organization, as opposed to simply deploying new technologies. A successful DevOps strategy requires a merged focus from both development teams and operational teams on what the company needs to meet its digital transformation objectives. Thus, it is about breaking down siloed groups of people and responsibilities, and—in their place—building teams that can multitask on technical issues and goals.
+
+Ultimately, successful DevOps teams require hive-minded individuals focused on striking a balance between fast, continuous innovation and security and operational needs. 
+
+Read the full article on https://www.talend.com/blog/2018/01/31/future-devops-mastery-multi-cloud-environments/ 

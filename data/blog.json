@@ -106,5 +106,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/onepoint.jpg",
     "brief": "Merci au sponsor Onepoint pour son soutien."
+  },
+  {
+    "id": "talend",
+    "title": "Mot du sponsor Talend",
+    "posted": "2018-10-10",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/talend.jpg",
+    "brief": "Merci au sponsor Talend pour son soutien."
   }
 ]
