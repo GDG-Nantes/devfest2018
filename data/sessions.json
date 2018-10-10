@@ -586,14 +586,14 @@
   },
   "136": {
     "id": 136,
-    "title": "Machine Learning made simple with MLKit",
-    "description": "Machine learning is becoming an important part of mobile development to help us provide a frictionless experience for our apps users. However at the same time it can be a pretty complex subject to tackle. Luckily for us though, Firebase MlKit is now available for us to ease this implementation into our apps.\n\nIn this talk I want to introduce you to Firebase MlKit and how you can integrate it into your production apps. We'll look at how we can perform face recognition, image labelling, text recognition and several more commonly used mobile use cases. Firebase makes it so easy that you'll walk away with the confidence in being able to provide these experiences to your users in no time! \n",
+    "title": "Push du Machine Learning dans ton app: When TensorFlow and MLKit rule the world",
+    "description": "Le Machine Learning n’est pas juste un buzzword. Combiner cette technologie et le développement mobile pourrait devenir l’un des plus gros progrès dans le monde du mobile. De Tensorflow à ML Kit, Google nous donne les outils pour rendre nos applications toujours plus intelligentes. Cette présentation est composée d’une introduction au Machine Learning, d’une description de Tensorflow Lite et ML Kit et enfin d’une explication simple sur comment utiliser ML Kit, via l’API ou avec votre propre modèle.",
     "type": "📣 Conference",
     "track": {
         "title": "Titan"
     },
     "category": "cloud",
-    "language": "en",
+    "language": "fr",
     "tags": [
         "🤖 BigData & AI"
     ],

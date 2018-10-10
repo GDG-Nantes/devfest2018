@@ -944,42 +944,28 @@
     },
     "135": {
         "id": "135",
-        "name": "Joe BIRCH",
-        "company": "Buffer",
-        "companyLogo": "/images/logos/buffer.png",
-        "country": "UK",
-        "photoUrl": "images/speakers/Joe_BIRCH.jpg",
-        "shortBio": "Hi, my names Joe. I’m an Android Engineer and Google Developer Expert for Android & Flutter based in Brighton, UK working on the Android team at Buffer.",
-        "bio": "Hi, my names Joe. I’m an Android Engineer and Google Developer Expert for Android & Flutter based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others.",
+        "name": "Sandra DUPRÉ",
+        "company": "Octo Technology",
+        "companyLogo": "/images/logos/octo.png",
+        "country": "France",
+        "photoUrl": "images/speakers/Sandra_DUPRÉ.jpg",
+        "shortBio": "Développeuse Android au sein d'Octo Technology, Sandra a participé au développement d'applications à fort trafic.",
+        "bio": "Développeuse Android au sein d'Octo Technology, Sandra a participé au développement d'applications à fort trafic. Elle travaille sur comment ajouter toujours plus d'intelligence dans nos applications, avec TensorFlow Lite et ML Kit. Elle écrites articles à ce sujet.",
         "tags": [
-            "Android"
+            "Android",
+            "Kotlin"
         ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Google Developer Expert"
-            }
-        ],
+        "badges": [],
         "socials": [
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/hitherejoe"
+                "link": "https://twitter.com/SandraDdev"
             },
             {
                 "icon": "github",
                 "name": "Github",
-                "link": "https://github.com/hitherejoe"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/joe-birch-80392157/"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://medium.com/@hitherejoe"
+                "link": "https://github.com/SandraJam"
             }
         ]
     },
