@@ -385,13 +385,13 @@
     },
     "115": {
         "id": "115",
-        "name": "Miguel MATHÉ",
+        "name": "Jérémy GIRERD-REY",
         "company": "Onepoint",
         "companyLogo": "/images/logos/onepoint.png",
         "country": "France",
-        "photoUrl": "images/speakers/Miguel_MATHE.jpg",
-        "shortBio": "Expert sur les technologies Microsoft depuis plus de 10 ans, je me passionne actuellement pour tous les nouveaux types d'interfaces (AR, VR, MR, Robotique) et plus particulièrement sur l'émergence de la réalité mixte grâce au casque Hololens de Microsoft.",
-        "bio": "Expert sur les technologies Microsoft depuis plus de 10 ans, je me passionne actuellement pour tous les nouveaux types d'interfaces (AR, VR, MR, Robotique) et plus particulièrement sur l'émergence de la réalité mixte grâce au casque Hololens de Microsoft.",
+        "photoUrl": "images/speakers/Jérémy_GIRERD-REY.png",
+        "shortBio": "Développeur mobile Android & .Net chez Onepoint, je m’intéresse depuis toujours aux technologies émergentes.",
+        "bio": "Développeur mobile Android & .Net chez Onepoint, je m’intéresse depuis toujours aux technologies émergentes. Je participe régulièrement à des concours de création vidéo-ludique (Ludum Dare). Je suis impliqué depuis plus de 2 ans dans les activités du pôle Expertise & Innovation de Onepoint, dans les domaines des Interfaces Naturelles, des mondes immersifs (AR/VR/MR), en expérimentant et évangélisant notamment des solutions comme ARCore, Unity 3D, Buddy, Hololens.",
         "tags": [
           "AR",
           "VR"
@@ -401,7 +401,12 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/miguelmathe"
+                "link": "https://twitter.com/crucknuk"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jérémy-girerd-rey-059295125/"
             }
         ]
     },
