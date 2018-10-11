@@ -115,5 +115,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/talend.jpg",
     "brief": "Merci au sponsor Talend pour son soutien."
+  },
+  {
+    "id": "conserto",
+    "title": "Mot du sponsor Conserto",
+    "posted": "2018-10-11",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/conserto.jpg",
+    "brief": "Merci au sponsor Conserto pour son soutien."
   }
 ]
