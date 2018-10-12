@@ -124,5 +124,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/conserto.jpg",
     "brief": "Merci au sponsor Conserto pour son soutien."
+  },
+  {
+    "id": "apside",
+    "title": "Mot du sponsor Apside",
+    "posted": "2018-10-12",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/apside.jpg",
+    "brief": "Merci au sponsor Apside pour son soutien."
   }
 ]
