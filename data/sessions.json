@@ -168,7 +168,7 @@
   "113": {
     "id": 113,
     "title": "La puissance des pseudo-éléments",
-    "description": "Encore en 2018 il n'est pas rare de rencontrer des soupes de \"div\" et \"span\" pour la création d'**éléments visuels en CSS**, ou pour créer des séparateurs ou encore casser le rythme d'une grille, etc.\n\nL'utilisation des pseudo-éléments permet de faire **passer son code à un niveau supérieur** sans pour autant demander un effort surhumain d'appréhension.\n\nUn peu de théorique, beaucoup d'exemples et de la pratique permettront de rendre leur utilisation concrète et abordable. Vous verrez ensuite que vous ne pourrez plus vous en passer !\n",
+    "description": "Encore en 2018 il n'est pas rare de rencontrer des soupes de \"div\" et \"span\" pour la création d'**éléments visuels en CSS**, ou pour créer des séparateurs ou encore casser le rythme d'une grille, etc.\n\nL'utilisation des pseudo-éléments permet de faire **passer son code à un niveau supérieur** sans pour autant demander un effort surhumain d'appréhension.\n\nUn peu de théorique, beaucoup d'exemples et de la pratique permettront de rendre leur utilisation concrète et abordable. Vous verrez ensuite que vous ne pourrez plus vous en passer !\n\nN'oubliez pas de ramener un <strong>ordinateur</strong> ou un <strong>carnet de note</strong> si vous souhaitez travailler sur les exercices proposés.\n",
     "type": "💻 Codelab",
     "track": {
         "title": "Hangar"
