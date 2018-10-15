@@ -133,5 +133,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/apside.jpg",
     "brief": "Merci au sponsor Apside pour son soutien."
+  },
+  {
+    "id": "niji",
+    "title": "Mot du sponsor Niji",
+    "posted": "2018-10-15",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/niji.jpg",
+    "brief": "Merci au sponsor Niji pour son soutien."
   }
 ]
