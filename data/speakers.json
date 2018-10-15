@@ -1544,8 +1544,8 @@
         "photoUrl": "images/speakers/Manon_Gruaz.jpg",
         "company": "Element AI",
         "companyLogo": "/images/logos/elementai.png",
-        "shortBio": "Evangeliste de marques intelligentes",
-        "bio": "Manon est directrice de création et évangeliste de Marques Intelligentes chez Arcbees. Entourée au quotidien de développeurs de génie, c’est naturellement qu’elle a fusionné son obsession pour la Marque avec son envoûtement pour l’intelligence artificielle. Enthousiaste de défis impossibles, elle essaye d’évangéliser chaque développeur et tout autre être vivant à travers sa conférence. C’est avec un humour parfois douteux qu’elle l’a déjà présenté au WAQ de Québec, au devFest de Nantes, Au Mix-It de Lyon ainsi qu’au GWTcon de Florence et aux soirées UX à Québec. Son mot préféré est Authentique. Née française, élevée en tant que citoyenne du monde, elle est maintenant sarcastique et romantique par choix.-",
+        "shortBio": "Manon est Visual Designer Senior Chez Element AI.",
+        "bio": "Manon est Visual Designer Senior Chez Element AI. 3e Startup au Canada, Element AI vise à développer une intelligence artificielle humaine, éthique et à la portée du public. Entourée au quotidien de chercheurs et développeurs de génie, c’est naturellement qu’elle a fusionné son obsession pour la Marque, le Design et la Compassion avec son envoûtement pour l’intelligence artificielle. Enthousiaste de défis impossibles, elle essaye d’évangéliser chaque être vivant à travers sa conférence. C’est avec un humour parfois douteux qu’elle l’a déjà présenté au Devoxx Londres et Paris, WAQ de Québec, au DevFest de Nantes, au Mix-It de Lyon ainsi qu’au GWTcon de Florence et aux soirées UX à Québec. Son mot préféré est Authentique. Née française, élevée en tant que citoyenne du monde, elle est maintenant sarcastique et romantique par choix.",
         "tags": [
             "UX"
         ],
@@ -2236,6 +2236,26 @@
                 "icon": "website",
                 "name": "Website",
                 "link": "https://javagile.wordpress.com/"
+            }
+        ]
+    },
+    "183": {
+        "id": "183",
+        "name": "Samantha BILODEAU",
+        "company": "",
+        "country": "Canada",
+        "photoUrl": "images/speakers/Samantha_BILODEAU.jpg",
+        "shortBio": "Samantha est une designer d’expérience avec un intérêt particulier pour l’IA, la linguistique et l'expérience utilisateur.",
+        "bio": "Samantha est une designer d’expérience avec un intérêt particulier pour l’IA, la linguistique et l'expérience utilisateur. Avant de rejoindre OVA, une startup partenaire de HTC ViveX et Alienware se spécialisant en informatique spatiale qui développe présentement StellarX, elle était propriétaire de Undertone.io, un studio de conception de langage spécialisé dans les expériences conversationnelles et vocales. Lorsqu’elle n’est pas en conversation avec Siri, Alexa ou Google Home, vous pouvez la trouver le nez enfoui dans un livre, ou en train d’explorer le vaste territoire boisé du Québec. Peu importe où elle se trouve, Samantha allie ses passions pour la linguistique et l’IA, afin d’aider les marques à communiquer avec cohérence et clarté, sans oublier la compassion.",
+        "tags": [
+            "UX"
+        ],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/samb418"
             }
         ]
     }
