@@ -151,5 +151,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/capgemini.jpg",
     "brief": "Merci au sponsor Capgemini pour son soutien."
+  },
+  {
+    "id": "nantes-saint-nazaire-dev",
+    "title": "Mot du sponsor Nantes Saint-Nazaire Développement",
+    "posted": "2018-10-17",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/nantes-saint-nazaire-dev.jpg",
+    "brief": "Merci au sponsor Nantes Saint-Nazaire Développement pour son soutien."
   }
 ]
