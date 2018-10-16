@@ -142,5 +142,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/niji.jpg",
     "brief": "Merci au sponsor Niji pour son soutien."
+  },
+  {
+    "id": "capgemini",
+    "title": "Mot du sponsor Capgemini",
+    "posted": "2018-10-16",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/capgemini.jpg",
+    "brief": "Merci au sponsor Capgemini pour son soutien."
   }
 ]
