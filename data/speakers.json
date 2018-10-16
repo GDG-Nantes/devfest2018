@@ -1879,8 +1879,8 @@
         "company": "Grep.to",
         "country": "France",
         "photoUrl": "images/speakers/Samuel_BERTHE.jpg",
-        "shortBio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.",
-        "bio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.\n\nPreviously DevOps Engineer at iAdvize, where I gained experience in cloud infrastructures, monitoring and automated development workflows ☁️. Open-source enthusiast and passionate about Docker ecosystem since the beginning.  🐳",
+        "shortBio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.\n\nAlso Teacher at Epitech.",
+        "bio": "👋 Hey, I'm Samuel, founder at Grep.to, a nice place to improve your DevRel.\n\nPreviously DevOps Engineer at iAdvize, where I gained experience in cloud infrastructures, monitoring and automated development workflows ☁️. Open-source enthusiast and passionate about Docker ecosystem since the beginning.  🐳\n\nAlso teacher at Epitech Nantes, one of the biggest IT higher education institution in France and Europe, with 17 campuses.\nEpitech instills behaviors that allow to learn independently, to comprehend business practices, to work in teams and to convince decision-makers.",
         "tags": [
             "Cloud",
             "Devops"
@@ -2258,5 +2258,32 @@
                 "link": "https://twitter.com/samb418"
             }
         ]
+    },
+    "185": {
+        "id": "185",
+        "name": "Pierre-Yves Aillet",
+        "company": "Zenika",
+        "companyLogo": "/images/logos/zenika.png",
+        "country": "France",
+        "photoUrl": "images/speakers/PierreYves_AILLET.jpg",
+        "shortBio": "Pierre-Yves intervient sur des missions d’audit, d’expertise technique ou d’accompagnement pour la mise en place d’outils et d’une démarche DevOps.",
+        "bio": "Pierre-Yves est passionné d'informatique. Il développe depuis 15 ans sur des langages variées allant de PHP à Java en passant par Javascript. Son IHM de prédilection est la ligne de commande. Il intervient sur des missions d’audit, d’expertise technique ou d’accompagnement pour la mise en place d’outils et d’une démarche DevOps. Il est aussi formateur officiel Docker et formateur Kubernetes.",
+        "tags": [
+            "Cloud",
+            "Devops"
+        ],
+        "badges": [],
+        "socials": [
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/pyaillet"
+          },
+          {
+              "icon": "github",
+              "name": "Github",
+              "link": "https://github.com/pyaillet"
+          }
+       ]
     }
 }
