@@ -806,7 +806,7 @@
   "148": {
     "id": 148,
     "title": "Game of code challenge",
-    "description": "Venez participer à ce challenge de conception d’intelligence artificielle.\n\nLes règles sont simples :\n\nune bataille de personnages médiévaux en un contre un\n\nune API REST d’attaque à disposition\n\nune application web de visualisation du combat en live\n\nVous n’avez plus qu’à coder votre IA avec votre langage préféré, réagir en conséquence et affronter l’IA du serveur ou d’autres participants de ce lab.\n\nDes starter kits seront à disposition (Node.js, php, Java), la plateforme sera ouverte 2 semaines avant la conférence.\n\nTournoi avec des lots à gagner à la fin de la session.\n\n",
+    "description": "Venez participer à ce challenge de conception d’intelligence artificielle.\n\nLes règles sont simples :\n\nune bataille de personnages médiévaux en un contre un\n\nune API REST d’attaque à disposition\n\nune application web de visualisation du combat en live\n\nVous n’avez plus qu’à coder votre IA avec votre langage préféré, réagir en conséquence et affronter l’IA du serveur ou d’autres participants de ce lab.\n\nDes starter kits seront à disposition (Node.js, php, Java\n\nTournoi avec des lots à gagner à la fin de la session.\n\nLa Plateforme est ici : https://coding-game.swat-sii.fr\n\nLes starters Kits sont disponibles ici : https://github.com/game-of-code\n\n",
     "type": "💻 Codelab",
     "track": {
         "title": "Les Machines"
