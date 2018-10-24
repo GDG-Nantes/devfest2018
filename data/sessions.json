@@ -992,7 +992,7 @@
     "id": 153,
     "title": "Android all the things!",
     "description": "Vous voulez faire votre propre système de maison connectée DIY, mais vous n’êtes pas capable de manier un fer à souder sans tout réduire en cendres ?\n\nJ’ai ce qu’il vous faut ! Tout ce dont vous aurez besoin est un Raspberry Pi, un tas de capteurs prêts à l’emploi et du code Kotlin (et un peu de Javascript). Je vais vous montrer comment j’ai créé mon système domotique à l’aide d’Android Things, Firebase, une app Android et Actions for Google, le tout sans rien enflammer involontairement. Je vais vous montrer comment j’ai utilisé Android Things pour collecter des données et l’utiliser avec un modèle TensorFlow pour essayer de prédire les tendances dans ma maison.",
-    "presentation": "",
+    "presentation": "https://speakerdeck.com/marcpoppleton/android-all-the-things-at-nantes",
     "videoId": "",
     "type": "📣 Conference",
     "track": {
