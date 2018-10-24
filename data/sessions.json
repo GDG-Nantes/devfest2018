@@ -445,7 +445,7 @@
     "id": 126,
     "title": "Un joli template ne rendra pas votre produit utilisable",
     "description": "Vous avez trouvé un template Bootstrap Angular React Material Design 4.0 qui *“fait le job”*, et vous vous dites *“pas besoin d’un designer”*. Vous lancez votre produit, et là surprise : les utilisateurs n’y comprennent rien. Comment est-ce possible ? Vous avez pourtant de jolis boutons Material Design et les couleurs ne piquent pas les yeux, c’est à ne rien y comprendre ! \n\nMais le design, c’est plus que des jolis boutons. Travailler avec des templates est possible, mais **pas sans une réflexion en amont sur les besoins, les parcours et une solide architecture d’information**. Nous ne sommes pas des machines ! Au travers d’exemples de projets réussis et d’échecs, je souhaite montrer **comment remettre l’utilisateur au cœur de nos projet et produits tout en utilisant efficacement votre framework ou template préféré.**\n",
-    "presentation": "",
+    "presentation": "https://speakerdeck.com/stephaniewalter/lux-au-service-de-la-performance-de-vos-interfaces",
     "videoId": "",
     "type": "📣 Conference",
     "track": {
@@ -1256,7 +1256,7 @@
     "id": 166,
     "title": "Hands on Jigsaw",
     "description": "Jigsaw a été  enfin(?) lancé en orbite, il faut donc préparer nos applications à la modularisation selon java 9.\n\nQuoi de mieux qu’un peu de pratique pour tester et découvrir cela ?\n\nDans cet atelier, nous allons donc convertir une application multi-modules au sens Gradle en une application modulaire au sens Jigsaw (et Gradle).\n\nCela nous permettra d’aborder notamment les notions de module path, de gestion des dépendances ainsi que les impacts sur les tests unitaires.\n\nVous aurez besoin des outils suivants (pour gagner du temps vous pouvez les installer par avance) :\n\n* [GIT](https://git-scm.com/).\n* La dernière version du JDK 11 [jdk.java.net](http://jdk.java.net/11/) ou [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) avec la variable d'environnement JAVA_HOME correctement configurée. [SdkMan](http://sdkman.io/) est un excellent outil pour installer et gérer vos versions de java (et gradle, maven, kotlin, ...).\n* Votre/notre IDE préféré [IntelliJ](https://www.jetbrains.com/idea/download/).\n",
-    "presentation": "",
+    "presentation": "https://mathieumure.github.io/devfest-nantes-jigsaw-docs",
     "videoId": "",
     "type": "💻 Codelab",
     "track": {
