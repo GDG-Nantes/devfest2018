@@ -160,5 +160,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/nantes-saint-nazaire-dev.jpg",
     "brief": "Merci au sponsor Nantes Saint-Nazaire Développement pour son soutien."
+  },
+  {
+    "id": "thank-you",
+    "title": "Thanks",
+    "posted": "2018-10-29",
+    "primaryColor": "#44504E",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/thank-you.jpg",
+    "brief": "Et oui le DevFest est terminé, merci à toutes et à tous pour votre participation et rendez-vous les 21 & 22 Octobre 2019 !"
   }
 ]
