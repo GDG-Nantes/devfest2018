@@ -62,7 +62,7 @@
     "id": 107,
     "title": "Séquenceur MIDI en NodeJS sur Raspberry PI",
     "description": "Je souhaite proposer de partager mon expérience sur la création d'un projet libre : \n\nUn séquenceur MIDI, développé en NodeJS sur Raspberry PI.\n\nIl s'agit donc d'un outil permettant de créer de la musique en live, très souple, et développé par mes soins afin de pouvoir customiser toutes les fonctionnalités en fonction de mes envies de création en live.\n\nTravaillant principalement sur Atari ST et Gameboy, il s'agit principalement de musique \"programmée\" à l'avance, avec peu de jeu \"live\".\nJ'ai créé cet outil pour travailler différemment, en créant mes morceaux en live avec une souplesse illimitée et personnalisée.\n\nCe séquenceur sert donc de moteur de création musicale en direct, et pilote différents synthétiseurs via le protocole MIDI, le tout contrôlé... en MIDI !\nAyant de fortes affinités avec le matériel vintage, je pilote un Atari ST, une nintendo NES, entre autres vieilles machines aux sons rappelant nos premiers jeux vidéos bien pixelisés.",
-    "presentation": "",
+    "presentation": "https://drive.google.com/open?id=1h7okqZS8RoyVbJKnpNo8rVS35iznY_fb",
     "videoId": "xnYY2ThBxbA",
     "type": "📣 Conference",
     "track": {
@@ -344,7 +344,7 @@
     "id": 121,
     "title": "Enlarge your team !",
     "description": "Passer de 1 à 10. Ou de 10 à 30. C’est le rêve de beaucoup d’entrepreneurs, mais qui n’est pas sans difficultés. Les petits problèmes du départ peuvent rapidement devenir des monstres à gérer si on ne s’est pas préparés. Parce que la taille compte, voici un retour sur les erreurs que j’ai pu commettre, et des choses qui ont bien fonctionné.",
-    "presentation": "",
+    "presentation": "https://noti.st/scharrier/7ZDonE/enlarge-your-team",
     "videoId": "9Xcb6b42V6U",
     "type": "⚡️ Quickie",
     "track": {
