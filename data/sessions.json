@@ -62,7 +62,7 @@
     "id": 107,
     "title": "Séquenceur MIDI en NodeJS sur Raspberry PI",
     "description": "Je souhaite proposer de partager mon expérience sur la création d'un projet libre : \n\nUn séquenceur MIDI, développé en NodeJS sur Raspberry PI.\n\nIl s'agit donc d'un outil permettant de créer de la musique en live, très souple, et développé par mes soins afin de pouvoir customiser toutes les fonctionnalités en fonction de mes envies de création en live.\n\nTravaillant principalement sur Atari ST et Gameboy, il s'agit principalement de musique \"programmée\" à l'avance, avec peu de jeu \"live\".\nJ'ai créé cet outil pour travailler différemment, en créant mes morceaux en live avec une souplesse illimitée et personnalisée.\n\nCe séquenceur sert donc de moteur de création musicale en direct, et pilote différents synthétiseurs via le protocole MIDI, le tout contrôlé... en MIDI !\nAyant de fortes affinités avec le matériel vintage, je pilote un Atari ST, une nintendo NES, entre autres vieilles machines aux sons rappelant nos premiers jeux vidéos bien pixelisés.",
-    "presentation": "https://drive.google.com/open?id=1h7okqZS8RoyVbJKnpNo8rVS35iznY_fb",
+    "presentation": "https://drive.google.com/open?id=1I9Rjo5xyztCvFl-r96Tw1GF8WbrAd6m84WoNLWwb2CM",
     "videoId": "xnYY2ThBxbA",
     "type": "📣 Conference",
     "track": {
@@ -223,7 +223,7 @@
     "id": 115,
     "title": "Highway to Elm!",
     "description": "Entre les problèmes de `null` et d'`undefined`, les cas d'erreur non traités, les régressions dans les dépendances npm et les refactoring hasardeux, il est compliqué de livrer sereinement du JavaScript en production !\n\nC'est un mal nécessaire, puisqu'il s'agit du seul langage compatible avec tous les navigateurs, non ? **Non !**\n\nJe vous propose de découvrir une alternative, Elm, dont la première promesse est troublante mais limpide : **plus d'erreurs au runtime !**\n\nNous verrons comment ce langage spécialement pensé pour créer des applications web garantit des mises en production sereines, loin de tous ces soucis que posent les applications JavaScript.",
-    "presentation": "",
+    "presentation": "https://slides.com/ereold/elmlang-en",
     "videoId": "pjeXbKXSiVs",
     "type": "📣 Conference",
     "track": {
@@ -384,7 +384,7 @@
     "id": 123,
     "title": "Kubeflow : Tensorflow on Kubernetes",
     "description": "L’intelligence artificielle est en train de révolutionner tous les domaines : médecine, pharmacie, automobile, même l’informatique en lui-même. Mais la multitude d’outils mis à disposition des développeurs rend la portabilité et l’entrainement de modèle compliqué, non répétable et non scalable.\nDurant ce talk, nous verrons comment déployer Kubeflow, un projet tirant partie de la puissance de Kubernetes afin d’entrainer des modèles de Machine Learning basé sur Tensorflow. Nous verrons aussi comment grâce aux GPU et Kubernetes, nous pouvons accélérer la phase d’apprentissage de chaque modèle. Enfin, nous verrons comment entrainer un modèle de machine learning simplement grâce à JupyterHub.",
-    "presentation": "",
+    "presentation": "https://speakerdeck.com/laurentgrangeau/kubeflow-tensorflow-on-kubernetes",
     "videoId": "0EPXlUZUd7g",
     "type": "📣 Conference",
     "track": {
@@ -507,7 +507,7 @@
     "id": 129,
     "title": "Kotlin : Le back du futur, le codelab",
     "description": "Depuis l’annonce par Google du support de Kotlin sur Android, les développeurs d'applications mobiles se sont fortement intéressés à ce langage récent. Mais \"**Nom de Zeus !**\" est-ce réservé aux développeurs mobiles ? Non, Non et Non. Kotlin tourne sur la JVM alors autant en profiter dans tous nos projets.\n\nViens nous rejoindre pour découvrir toutes les facettes de ton futur prochain langage préféré. À travers plusieurs exercices, tu apprendras à transformer ton vieux Java en Kotlin puis à penser directement en Kotlin pour plus de \"**fun**\" et moins de \"**void**\".\n\nPas encore persuadé que ce codelab est fait pour toi ? Regarde ces avis de développeurs déjà convaincus :\n\n    \"Java ? Là où on va, on n’a pas besoin de Java !\"\n  Un développeur backend à propos de son prochain projet en Kotlin.\n\n    Faut voir grand dans la vie, quitte à coder sur la JVM, autant choisir un language qui ait d’la gueule !\"\nUn autre développeur backend après la conférence Kotlin : Le back du futur.\n\nVoici les petites choses à faire juste avant de venir : \n * Avoir java 8 sur son poste \n * Récupérer le projet ```git clone https://github.com/bttf-kotlin/kotlin-codelab-ktor``` \n * Exécuter ```./gradlew build``` \n\n\n Pour plus de détails sur les pre-requis : [Cliquez ici](https://bttf-kotlin.github.io/kotlin-codelab-ktor/steps/1-requirements.html) \n\n\n**Doc Gautier et Adrien Mc Fly** ",
-    "presentation": "",
+    "presentation": "https://bttf-kotlin.github.io/kotlin-conf-slides/codelab.html",
     "videoId": "",
     "type": "💻 Codelab",
     "track": {
@@ -708,7 +708,7 @@
     "id": 139,
     "title": "What's up TC39 ?",
     "description": "Il y a aujourd'hui plus de 30 propositions dans le backlog du TC39. Que nous réserve le futur ? Si vous n'avez pas envie d'aller vous perdre dans les compte-rendus de réunion du comité, je vous raconterai où nous en sommes aujourd'hui et à quoi ressemblera le Javascript de demain.",
-    "presentation": "",
+    "presentation": "https://docs.google.com/presentation/d/e/2PACX-1vQ0TZ7BhOqxmWsbZ9cD74PZ4n5Pwc6O_iJ29GXw18wH9KP273b5IT_inkrjCSPiPi2QouP2owRg0Ktn/pub?start=false&loop=false&delayms=3000",
     "videoId": "kF_P8YmmZN4",
     "type": "📣 Conference",
     "track": {
@@ -1175,7 +1175,7 @@
     "id": 162,
     "title": "Où sont les femmes ?",
     "description": "Peut-être avez-vous constaté la faible proportion de femmes dans les conférences IT ?\nExaminons les raisons de cette situation et les initiatives créées pour essayer d'y remédier.\nSarah et Cécilia vous proposent de les découvrir et d'échanger avec vous pour tenter d'améliorer la diversité dans les conférences :)",
-    "presentation": "",
+    "presentation": "https://github.com/cbossard/more_women_speaking_at_tech_conf",
     "videoId": "2E2SzUYdlCc",
     "type": "📣 Conference",
     "track": {
