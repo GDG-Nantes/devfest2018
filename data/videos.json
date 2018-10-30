@@ -1,56 +1,56 @@
 [
   {
-    "youtubeId": "x6NhMtSCwLM",
+    "youtubeId": "_CIY4Zr4PD8",
     "title": "Keynote d'ouverture / Opening keynote",
-    "speakers": "Pier Schneider",
-    "thumbnail": "/images/sessions/pier_schneider.jpg"
+    "speakers": "Christian Heilmann",
+    "thumbnail": "/images/sessions/christian_heilmann.jpg"
   },
   {
-    "youtubeId": "96iIQuhTzsc",
-    "title": "An Android Retrospective",
-    "speakers": "Romain Guy & Chet Haase",
-    "thumbnail": "/images/sessions/romain_guy_chet_haase.jpg"
+    "youtubeId": "JaHsrC7UNeM",
+    "title": "Look mum, no hands ! Mind control in JavaScript",
+    "speakers": "Charlie Gerard",
+    "thumbnail": "/images/sessions/charlie_gerard.jpg"
   },
   {
-    "youtubeId": "NoBbTAFQCxQ",
-    "title": "Start Using CSS Grid Layout Today",
-    "speakers": "Rachel Andrew",
-    "thumbnail": "/images/sessions/rachel_andrew.jpg"
+    "youtubeId": "pi-ABBZ1AIw",
+    "title": "Istio, we have a problem! Understanding and fixing bugs with a service-mesh",
+    "speakers": "David Gageot",
+    "thumbnail": "/images/sessions/david_gageot.jpg"
   },
   {
-    "youtubeId": "m6i6YU9G3mo",
-    "title": "Docker for developers and ops: what's new and what's next",
-    "speakers": "Patrick Chanezon",
-    "thumbnail": "/images/sessions/patrick_chanezon.jpg"
+    "youtubeId": "HXlBZHUqjxw",
+    "title": "Ghost in the Machine",
+    "speakers": "Etienne Caron",
+    "thumbnail": "/images/sessions/etienne_caron.jpg"
   },
   {
-    "youtubeId": "_YfBNNe9IAo",
-    "title": "Code and Deploy Angular to the Cloud",
-    "speakers": "Simona Cotin & Asim Hussain",
-    "thumbnail": "/images/sessions/simona_cotin_asim_hussain.jpg"
+    "youtubeId": "QFRkDG74OFc",
+    "title": "Comment perdre sa surchage featurale",
+    "speakers": "Estelle Landry",
+    "thumbnail": "/images/sessions/estelle_landry.jpg"
   },
   {
-    "youtubeId": "ZVqsCKsQo9g",
-    "title": "Introduction to Android Instant Apps",
-    "speakers": "Cyril Mottier",
-    "thumbnail": "/images/sessions/cyril_mottier.jpg"
+    "youtubeId": "g45PA50opKM",
+    "title": "Hello from the other side",
+    "speakers": "Ingrid Epure",
+    "thumbnail": "/images/sessions/ingrid_epure.jpg"
   },
   {
-    "youtubeId": "T6YJlaY0Dpw",
-    "title": "Documentation as Code (expliqué à mon père)",
-    "speakers": "Hubert Sablonnière",
-    "thumbnail": "/images/sessions/hubert_sablonniere.jpg"
+    "youtubeId": "kJR74dG6_1U",
+    "title": "Au pays des Gophers à partir de 3 ans",
+    "speakers": "Nicolas Lepage",
+    "thumbnail": "/images/sessions/nicolas_lepage.jpg"
   },
   {
-    "youtubeId": "O25xbCq_LFU",
-    "title": "The great SOA migration",
-    "speakers": "Charles-Axel Dein",
-    "thumbnail": "/images/sessions/charles-axel_dein.jpg"
+    "youtubeId": "3eMSKHkXvww",
+    "title": "Shaving my head made me a better programmer",
+    "speakers": "Alex Qin",
+    "thumbnail": "/images/sessions/alex_qin.jpg"
   },
   {
-    "youtubeId": "uKEbKSM68dA",
-    "title": "Mixed Reality for Social Good",
-    "speakers": "Etienne Caron-Petit-Pas",
-    "thumbnail": "/images/sessions/etienne_caron-petit-pas.jpg"
+    "youtubeId": "2E2SzUYdlCc",
+    "title": "Où sont les femmes ?",
+    "speakers": "Cécilia Bossard & Sarah Haim-Lubczanski",
+    "thumbnail": "/images/sessions/cecilia_bossard_sarah_haim-lubczanski.jpg"
   }
 ]
