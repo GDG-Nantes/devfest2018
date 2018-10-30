@@ -4,6 +4,8 @@
 
 <link rel="import" href="../../bower_components/paper-tabs/paper-tabs.html">
 
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
 <link rel="import" href="../../bower_components/neon-animation/neon-animated-pages.html">
 
 <link rel="import" href="../styles/shared-styles.html">
@@ -110,9 +112,19 @@
         margin-top: 40px;
       }
 
+      .action-buttons paper-button {
+        @apply(--layout-horizontal);
+        @apply(--layout-center-justified);
+      }
+
       paper-button {
         font-size: 0.8em;
         color: #fff;
+      }
+
+      iron-icon {
+        color: #fff;
+        margin-right: 6px;
       }
 
       .open-video {
@@ -161,14 +173,20 @@
                           alt="DevFest Nantes 2018"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              {% if pages.home.headerSettings.video %}
-                <div class="open-video" on-tap="_openVideo">
-                  <iron-icon icon="play"></iron-icon>
-                  [[localize('play-icon')]]
-                </div>
-              {% endif %}
+              
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>[[localize('buy-ticket')]]</paper-button>
+                <a href="https://www.youtube.com/playlist?list=PLuZ_sYdawLiXyaSnyRinPKvPXQIsNaJFz" target="_blank" rel="noopener noreferrer">
+                  <paper-button class="primary">
+                    <iron-icon icon="video"></iron-icon>
+                    [[localize('videos')]]
+                  </paper-button>
+                </a>
+                <a href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534" target="_blank" rel="noopener noreferrer">
+                  <paper-button class="primary">
+                    <iron-icon icon="photo"></iron-icon>
+                    [[localize('album-photo')]]
+                  </paper-button>
+                </a>
               </div>
             </div>
           </div>
