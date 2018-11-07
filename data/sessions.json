@@ -1135,7 +1135,7 @@
     "id": 160,
     "title": "Créer un datapipeline en 20 minutes avec Kafka Connect",
     "description": "Chez iAdvize, nous utilisons en production Apache Kafka et le framework Kafka Connect pour créer facilement des data pipelines temps réels, scalables et résilients. Nous verrons comment Kafka Connect peut devenir une solution efficace pour vos flux de données entrants ou sortants de Kafka. En 20 minutes, nous créerons ensemble un pipeline d'A-Z, basé sur un cas concret .",
-    "presentation": "",
+    "presentation": "https://drive.google.com/file/d/1tHavXU4vW8rpgdEgenPtFMteJ4ebLv-h/view?usp=sharing",
     "videoId": "DVvlKhktBIY",
     "type": "⚡️ Quickie",
     "track": {
