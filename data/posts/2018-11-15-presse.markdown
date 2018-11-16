@@ -1,0 +1,72 @@
+<table style="width: 100%; border-spacing: 10px;">
+	<tr style="height: 150px;"><td>
+			<a href="https://france3-regions.francetvinfo.fr/pays-de-la-loire/emissions/9h50-matin" target="_blank">
+  				<img src="/images/posts/france_3_regions.jpg" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://france3-regions.francetvinfo.fr/pays-de-la-loire/nantes-devfest-rendez-vous-incontournable-technophiles-1555102.html" target="_blank">
+  				<img src="/images/posts/france_3_regions.jpg" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="https://www.lemondeinformatique.fr/actualites/lire-devfest-rendez-vous-le-18-octobre-a-nantes-pour-la-grand-messe-du-developpement-73121.html" target="_blank">
+  				<img src="/images/posts/lemondeinformatique.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://actus.nantes-saintnazaire.fr/article/devfest-entreprises-recrutent-digital-nantes" target="_blank">
+  				<img src="/images/logos/nantes-saintnazaire.jpg" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="https://chooseyourboss.blog/2018/09/27/interview-de-lequipe-du-devfest-nantes-2018" target="_blank">
+  				<img src="/images/logos/cyb.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.lejournaldesentreprises.com/loire-atlantique-vendee/breve/plus-de-3-500-personnes-attendues-lun-des-plus-gros-devfest-deurope-129823" target="_blank">
+  				<img src="/images/posts/lejournaldesentreprises.jpg" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="https://www.geeek.org/devfest-nantes-2018-videos-replay-youtube-235.html" target="_blank">
+  				<img src="/images/posts/geeek.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.actuia.com/actualite/push-du-machine-learning-dans-ton-app-when-tensorflow-and-mlkit-rule-the-world-par-sandra-dupre-docto-technology-au-devfest-nantes-2018" target="_blank">
+  				<img src="/images/posts/actu-ia.png" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="http://www.servicesmobiles.fr/2-evenements-tech-a-ne-pas-manquer-41129" target="_blank">
+  				<img src="/images/posts/servicesmobiles.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://marmelab.com/blog/2018/10/22/devfest-nantes-2018.html" target="_blank">
+  				<img src="/images/posts/marmelab.png" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="https://access42.net/retour-sur-terre-apres-le-devfest-nantes-2018" target="_blank">
+  				<img src="/images/logos/access42.jpg" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://blog.eleven-labs.com/fr/retour-devfest-nantes" target="_blank">
+  				<img src="/images/posts/eleven-labs.png" width="200px" />
+			</a>
+	</td></tr>
+	<tr style="height: 150px;"><td>
+			<a href="https://troopers.agency/fr/blog/retour-d-experience-du-dev-fest-nantes-2018" target="_blank">
+  				<img src="/images/posts/troopers.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="http://www.monkeypatch.io/2018/11/12/DevFest-Nantes.html" target="_blank">
+  				<img src="/images/logos/monkeypatch.png" width="200px" />
+			</a>
+	</td></tr>
+</table>

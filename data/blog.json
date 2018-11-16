@@ -169,5 +169,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/thank-you.jpg",
     "brief": "Et oui le DevFest est terminé, merci à toutes et à tous pour votre participation et rendez-vous les 21 & 22 Octobre 2019 !"
+  },
+  {
+    "id": "presse",
+    "title": "Ils en ont parlé...",
+    "posted": "2018-11-15",
+    "primaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/presse.jpg",
+    "brief": "Ils en ont parlé sur leurs sites..."
   }
 ]
